@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.mxml</mask>
+      <mask>*.p</mask>
+      <mask>c</mask>
+      <mask>con</mask>
+      <mask>cont</mask>
+      <mask>contr</mask>
+      <mask>contro</mask>
+      <mask>control</mask>
+      <mask>controller</mask>
+      <mask>controller.</mask>
+      <mask>controller.j</mask>
+      <mask>controller.java</mask>
+      <mask>controller.jav</mask>
+      <mask>Cont</mask>
+      <mask>Con</mask>
+      <mask>Co</mask>
+      <mask>C</mask>
+      <mask>*C</mask>
+      <mask>*Cont</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controller.java</mask>
+      <mask>*Controller.jav</mask>
+      <mask>*</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
