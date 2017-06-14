@@ -2,413 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/src/docker/node-7/README.md" timestamp="1494619834436">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/gulpfile.js" timestamp="1494341632429">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1497029624865">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/src/main/java/com/yodle/qa/page/centermark/CentermarkBasePage.java" timestamp="1497326007160">
-        <mark key="[" line="154" column="89" />
-        <mark key="]" line="154" column="89" />
-        <mark key="^" line="154" column="55" />
-        <mark key="." line="154" column="89" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/webpack.dev.js" timestamp="1495206662541">
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="41" />
-        <mark key="^" line="69" column="45" />
-        <mark key="." line="57" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/webpack.js" timestamp="1495206586169">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/jasmine-setup.js" timestamp="1495208828207">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/navigation-hacks/nav.scss" timestamp="1494276035457">
-        <mark key="[" line="111" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="113" column="50" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/dashboard-nav-service/README.md" timestamp="1495483261149">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/index.html" timestamp="1494357083774">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="40" column="56" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/postcss.config.js" timestamp="1495205979340">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/README.md" timestamp="1497324168555">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="7" column="69" />
-        <mark key="^" line="7" column="69" />
-        <mark key="." line="7" column="69" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-7/Dockerfile" timestamp="1494620337264">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/src/app.scss" timestamp="1495206749071">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/application/Application.scala" timestamp="1496951299489">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/navigation-hacks/icon-navigation.css" timestamp="1494536445818">
-        <mark key="[" line="146" column="1" />
-        <mark key="]" line="146" column="1" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/garbage/central/NatpalShared/src/berry-brand.cfg" timestamp="1494257644551">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/jest.json" timestamp="1495207227753">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="69" />
-        <mark key="." line="11" column="69" />
-        <mark key="^" line="11" column="69" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1497372556259">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/java/cardshark/src/main/java/com/yodle/service/cardshark/wrapper/CorporateRelationshipServiceWrapper.java" timestamp="1496421974348">
-        <mark key="[" line="39" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/java/cardshark/src/main/java/com/yodle/service/cardshark/provider/card/ReviewCardProvider.java" timestamp="1496676214285">
-        <mark key="[" line="52" column="65" />
-        <mark key="]" line="52" column="75" />
-        <mark key="." line="52" column="75" />
-        <mark key="^" line="52" column="75" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/css/nav.css" timestamp="1496946038057">
-        <mark key="[" line="110" column="15" />
-        <mark key="]" line="110" column="15" />
-        <mark key="." line="110" column="15" />
-        <mark key="^" line="80" column="42" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/src/components/welcome/__tests__/analytics-info.test.jsx" timestamp="1495208823994">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-yarn-build/Dockerfile" timestamp="1495140279728">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/package.json" timestamp="1494341616258">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-7/VERSION" timestamp="1495220744875">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/java/dashboard-nav-service/src/main/java/com/yodle/service/dashboardnav/controller/DashboardNavController.java" timestamp="1495824461907">
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="40" />
-        <mark key="^" line="95" column="40" />
-        <mark key="." line="95" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/web/CentermarkSiteEngagementPageTests.java" timestamp="1497365215676">
-        <mark key="[" line="139" column="13" />
-        <mark key="]" line="139" column="13" />
-        <mark key="^" line="144" column="124" />
-        <mark key="." line="139" column="13" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/views/icon-navigation.scala.html" timestamp="1494514773414">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="36" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1496769252248">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/garbage/yodle-core-datasources/release/sql/rel-sprint-349/natpal/tr-miracle-ear-product-performance-349.PROD.sql" timestamp="1497383183630">
-        <mark key="[" line="1" column="59" />
-        <mark key="]" line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-      </file>
-      <file name="$USER_HOME$/.cowmoo/bash/var.sh" timestamp="1493092865780">
-        <mark key="[" line="24" column="86" />
-        <mark key="]" line="24" column="86" />
-        <mark key="^" line="24" column="86" />
-        <mark key="." line="24" column="86" />
-      </file>
-      <file name="$USER_HOME$/exercism/haskell/leap/src/LeapYear.hs" timestamp="1492314836270">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/config/jest.json" timestamp="1496763421401">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/exercism/haskell/.gitignore" timestamp="1492314159212">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-7/build/node-cleanup.sh" timestamp="1494621411488">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/java/cardshark/src/test/java/com/yodle/service/cardshark/provider/card/ReviewCardProviderTest.java" timestamp="1496676244418">
-        <mark key="[" line="145" column="29" />
-        <mark key="]" line="145" column="39" />
-        <mark key="." line="145" column="39" />
-        <mark key="^" line="145" column="39" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/config/webpack.dev.js" timestamp="1496763562648">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="17" />
-        <mark key="^" line="49" column="16" />
-        <mark key="." line="49" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-yarn-build/build.sh" timestamp="1495465838002">
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/server/index.ejs" timestamp="1496768919094">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/server/data/nav/index.js" timestamp="1496767010132">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/react-components/report/report-container.tsx" timestamp="1497038342924">
-        <mark key="[" line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/config/webpack.js" timestamp="1496763661732">
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/server/passthroughs/centermark-nav-renderer.js" timestamp="1496764598960">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/communication/CentermarkListsTests.java" timestamp="1497279030552">
-        <mark key="[" line="51" column="13" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/src/components/welcome/analytics-info.jsx" timestamp="1495208813431">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/yo-bootstrap/src/components/navigation/templates/yo-nav-item.tpl.html" timestamp="1494535801382">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/css/styles.css" timestamp="1497289812212">
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/dashboard-nav-service/src/main/resources/navs/centermark/navs.json" timestamp="1497384790921">
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="58" column="55" />
-        <mark key="^" line="58" column="55" />
-        <mark key="." line="58" column="55" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497385126551">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/src/main/java/com/yodle/qa/page/centermark/web/CentermarkWebPage.java" timestamp="1497325701672">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/navigation-hacks/logo.svg" timestamp="1495041282954">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/package.json" timestamp="1495208841959">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/tsconfig-build.json" timestamp="1496416769932">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/react-components/network-monitoring/network-monitoring.tsx" timestamp="1497037592111">
-        <mark key="[" line="75" column="63" />
-        <mark key="]" line="75" column="63" />
-        <mark key="." line="75" column="63" />
-      </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/navigation-hacks/nav.css" timestamp="1494361435172">
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="60" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/views/iconnav.scala.html" timestamp="1494530583819">
-        <mark key="[" line="209" column="107" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/src/app.jsx" timestamp="1495206447472">
-        <mark key="[" line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/views/newNewNavigation.scala.html" timestamp="1497385659836">
-        <mark key="[" line="270" column="75" />
-        <mark key="]" line="270" column="89" />
-        <mark key="." line="270" column="89" />
-        <mark key="^" line="270" column="89" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/yo-bootstrap/src/components/navigation/js/yo-nav.js" timestamp="1494536003716">
-        <mark key="[" line="151" column="18" />
-        <mark key="]" line="151" column="40" />
-        <mark key="." line="151" column="40" />
-        <mark key="^" line="151" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/CentermarkTests.java" timestamp="1497325707268">
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="^" line="506" column="43" />
-        <mark key="." line="393" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/react-components/monitor/monitor.tsx" timestamp="1497037613386">
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="46" />
-        <mark key="." line="36" column="63" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/react-components/report/report.tsx" timestamp="1497037733229">
-        <mark key="[" line="56" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1495033049845">
-        <mark key="[" line="149" column="128" />
-        <mark key="]" line="149" column="133" />
-        <mark key="." line="149" column="128" />
-      </file>
-      <file name="$USER_HOME$/src/docker/node-7/build/node.sh" timestamp="1494620417435">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/garbage/central/AccountSetupInfoService/src/com/yodle/accountsetupinfo/orchestrator/ClientYodleTeamOrchestrator.java" timestamp="1497373331188">
-        <mark key="[" line="73" column="77" />
-        <mark key="]" line="73" column="77" />
-        <mark key="^" line="73" column="77" />
-        <mark key="." line="73" column="77" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/exercism/haskell/hello-world/src/HelloWorld.hs" />
-      <jump line="16" column="8" filename="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>Organic</text>
-      </register>
-      <register name="-" type="4">
-        <text>Organic</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">QCh1c2VyLmZpcnN0TmFtZSBmaWx0ZXIoXy5zaXplID4gMCkgbWFwKF8uc3Vic3RyaW5nICgwLDEpICsgIi4gIikpIEAodXNlci5sYXN0TmFtZSBmaWx0ZXIoXy5zaXplID4gMCkgbWFwKF8gKyAiIC0gIikpTG9nIE91dA==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRKd3QoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgICAgICBTdHJpbmcgaGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoSldUX0hFQURFUik7CiAgICAgICAgaWYgKGhlYWRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBoZWFkZXI7CiAgICAgICAgfQogICAgICAgIFN0cmluZyBqd3QgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiand0Iik7CiAgICAgICAgaWYgKGp3dCAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAiSldUICIgKyBqd3Q7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiIjsKICAgIH0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDZW50ZXJtYXJrV2ViUGFnZSB3ZWJQYWdlID0gbmV3IENlbnRlcm1hcmtXZWJQYWdlKCkuZ29Ub1BhZ2VWaWFVc2VyKGZtYUlkLCB1c2VyKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpcmVjdGFibGVFbGVtZW50PENlbnRlcm1hcmtXZWJTaXRlRW5nYWdlbWVudFBhZ2U+IHNpdGVFbmdhZ2VtZW50VGFiID0gd2ViUGFnZS5nZXRTaXRlRW5nYWdlbWVudE9uTmF2KCk7CiAgICAgICAgYXNzZXJ0VHJ1ZSgiVGhlIHNpdGUgZW5nYWdlbWVudCB1cmwgc2hvdWxkIGJlIGNvcnJlY3QiLCBzaXRlRW5nYWdlbWVudFRhYi5nZXRBdHRyaWJ1dGUoImhyZWYiKS5lbmRzV2l0aCgiL3dlYi9zaXRlLWVuZ2FnZW1lbnQvIiArIGZtYUlkKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbGlja2FibGVFbGVtZW50IGV4cGFuZExhc3QzMERheXMoKSB7CiAgICAgICAgcmV0dXJuIFBhZ2VFbGVtZW50RmFjdG9yeS5idWlsZENsaWNrYWJsZUVsZW1lbnQoImNzcz1kaXYucGFnZS13cmFwcGVyLndlYi5uZy1zY29wZSBhLnRvZ2dsZS10ZHMiKTsKICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZWRpcmVjdGFibGVFbGVtZW50PENlbnRlcm1hcmtXZWJTaXRlRW5nYWdlbWVudFBhZ2U+IGdldFNpdGVFbmdhZ2VtZW50T25OYXYoKSB7CiAgICAgICAgcmV0dXJuIFBhZ2VFbGVtZW50RmFjdG9yeS5idWlsZFJlZGlyZWN0YWJsZUVsZW1lbnQoImNzcz0jd2ViLXNpdGUtZW5nYWdlbWVudC10YWIgYSIsIENlbnRlcm1hcmtXZWJTaXRlRW5nYWdlbWVudFBhZ2UuY2xhc3MpOwogICAgfQo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -423,37 +19,49 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
