@@ -9,13 +9,13 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497636315766">
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497637504334">
         <mark key="[" line="106" column="63" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="115" column="26" />
+        <mark key="]" line="109" column="28" />
+        <mark key="." line="109" column="28" />
+        <mark key="^" line="109" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497464856859">
+      <file name="/Dummy.txt" timestamp="1497637549598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
