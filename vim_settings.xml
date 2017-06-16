@@ -9,10 +9,11 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497632547895">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497636315766">
+        <mark key="[" line="106" column="63" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="115" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1497464856859">
         <mark key="[" line="0" column="0" />
@@ -52,59 +53,82 @@
       <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="/global-context-ctrl.js" timestamp="1497636232260" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB7IGJvZHksIGJhc2VVcmwsIGhvc3RuYW1lLCBvcmlnaW5hbFVybCwgbWV0aG9kIH0gPSBwcm94eVJlcTsK</text>
+      <register name="0" type="4">
+        <text>ownerService.getOwnerDataResponse(currentOwnerId).then(function (ownerData) {
+                    if (noNav) {
+                        renderNav(currentOwnerId);
+                    }
+                }, function (errorResponse) {
+                    if (errorResponse.status == 404) {
+                        window.location.href = '/error/404'
+                    } else {
+                        console.error('Could not determine owner', errorResponse);
+                    }
+                });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.then(function (ownerData) {
+                        },
+                        function (errorResponse) {
+                            if (errorResponse.status === 404) {
+                                window.location.href = '/error/404'
+                            } else {
+                                console.error('Could not determine owner', errorResponse);
+                            }
+                        });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyTmF2KGN1cnJlbnRPd25lcklkKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>const fmaPrefix = 'yc.fma.';
-    const clientPrefix = 'yc.client.';</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobm9OYXYpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>/**
-     * 
-     * @returns {string|undefined}
-     */</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGV0IGN1cnJlbnRGbWFJZCA9ICRyb3V0ZS5jdXJyZW50LnBhdGhQYXJhbXMuZm1hSWQ7CiAgICBsZXQgY3VycmVudENsaWVudElkID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>let tokenPromise = tokenService.getToken();
-  let apiUrlPromise = apiUrlService.getYodleApiUrl();
+        <text>yoInitPromise.then(function () {
+            if (navigation) {
+                setActiveTab();
+            }
 
-  let navigation;
-
-  let yoInitPromise = $q.all([apiUrlPromise, tokenPromise]).then(function(values) {
-    yo.init({
-      apiUrl: values[0],
-      apiToken: values[1].token,
-      window: window
-    });
-  });</text>
+            if (isNewOwner(currentOwnerId)) {
+                prevOwnerId = currentOwnerId;
+                ownerService.getOwnerDataResponse(currentOwnerId).then(function (ownerData) {
+                    if (noNav) {
+                        renderNav(currentOwnerId);
+                    }
+                }, function (errorResponse) {
+                    if (errorResponse.status == 404) {
+                        window.location.href = '/error/404'
+                    } else {
+                        console.error('Could not determine owner', errorResponse);
+                    }
+                });
+            }
+        });</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9sZEJyYW5kQ3NzID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JyYW5kLWNzcycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3ljLmNsaWVudC4nIA==</text>
+        <text>currentOwnerId</text>
       </register>
     </registers>
     <search>
