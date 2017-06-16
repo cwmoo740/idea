@@ -9,11 +9,15 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497637504334">
-        <mark key="[" line="106" column="63" />
-        <mark key="]" line="109" column="28" />
-        <mark key="." line="109" column="28" />
-        <mark key="^" line="109" column="28" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497640811562">
+        <mark key="[" line="4" column="85" />
+        <mark key="." line="119" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1497637549598">
         <mark key="[" line="0" column="0" />
@@ -53,82 +57,80 @@
       <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="/global-context-ctrl.js" timestamp="1497636232260" />
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>ownerService.getOwnerDataResponse(currentOwnerId).then(function (ownerData) {
-                    if (noNav) {
-                        renderNav(currentOwnerId);
-                    }
-                }, function (errorResponse) {
-                    if (errorResponse.status == 404) {
-                        window.location.href = '/error/404'
-                    } else {
-                        console.error('Could not determine owner', errorResponse);
-                    }
-                });</text>
+        <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>function replaceThemeLink(themeKey) {
+    const oldBrandCss = document.getElementById('brand-css');
+    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
+    if (href === oldBrandCss.href) {
+        return;
+    }
+
+    const head = document.getElementsByTagName('head')[0];
+    const newBrandCss = document.createElement('link');
+    newBrandCss.rel = 'stylesheet';
+    newBrandCss.href = href;
+    head.replaceChild(newBrandCss, oldBrandCss);
+}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>function replaceThemeLink(themeKey) {
+    const oldBrandCss = document.getElementById('brand-css');
+    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
+    if (href === oldBrandCss.href) {
+        return;
+    }
+
+    const head = document.getElementsByTagName('head')[0];
+    const newBrandCss = document.createElement('link');
+    newBrandCss.rel = 'stylesheet';
+    newBrandCss.href = href;
+    head.replaceChild(newBrandCss, oldBrandCss);
+}</text>
       </register>
       <register name="2" type="4">
-        <text>.then(function (ownerData) {
-                        },
-                        function (errorResponse) {
-                            if (errorResponse.status === 404) {
-                                window.location.href = '/error/404'
-                            } else {
-                                console.error('Could not determine owner', errorResponse);
-                            }
-                        });</text>
+        <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRPd25lcigpIHsKICAgICAgICBsZXQgZm1hID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5mbWFJZDsKICAgICAgICBsZXQgY2xpZW50ID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsKICAgICAgICBsZXQgb3duZXI7CiAgICAgICAgaWYgKGZtYSkgewogICAgICAgICAgICBvd25lciA9IGZtYVByZWZpeCArIGZtYTsKICAgICAgICB9IGVsc2UgaWYgKGNsaWVudCkgewogICAgICAgICAgICBvd25lciA9IGNsaWVudFByZWZpeCArIGNsaWVudDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG93bmVyOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwcmV2T3duZXJJZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyTmF2KGN1cnJlbnRPd25lcklkKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobm9OYXYpIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text>yoInitPromise.then(function () {
-            if (navigation) {
-                setActiveTab();
-            }
-
-            if (isNewOwner(currentOwnerId)) {
-                prevOwnerId = currentOwnerId;
-                ownerService.getOwnerDataResponse(currentOwnerId).then(function (ownerData) {
-                    if (noNav) {
-                        renderNav(currentOwnerId);
-                    }
-                }, function (errorResponse) {
-                    if (errorResponse.status == 404) {
-                        window.location.href = '/error/404'
-                    } else {
-                        console.error('Could not determine owner', errorResponse);
-                    }
-                });
-            }
-        });</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRzY29wZS4kb24oJyRyb3V0ZUNoYW5nZVN1Y2Nlc3MnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>renderNav(owner)
+            .then(function () {
+                return ownerService.getOwnerDataResponse(owner);
+            })
+            .then(function (ownerData) {
+                // do nothing
+            }, function (errorResponse) {
+                if (errorResponse.status === 404) {
+                    window.location.href = '/error/404'
+                } else {
+                    console.error('Could not determine owner', errorResponse);
+                }
+            });</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9sZEJyYW5kQ3NzID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2JyYW5kLWNzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>currentOwnerId</text>
+        <text>getOwnerDataResponse</text>
       </register>
     </registers>
     <search>
