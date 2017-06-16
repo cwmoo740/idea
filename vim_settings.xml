@@ -9,14 +9,19 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497630095745">
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-        <mark key="^" line="60" column="7" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497631756180">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1497464856859">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
         <mark key="[" line="160" column="5" />
@@ -29,64 +34,82 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
-      <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
-        <mark key="^" line="18" column="44" />
-      </file>
-      <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/WebSecurity.java" timestamp="1497464231859">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497629771890" />
+      <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/index.html" timestamp="1497631077506">
+        <mark key="[" line="5" column="89" />
+        <mark key="]" line="5" column="89" />
+        <mark key="." line="5" column="89" />
+      </file>
+      <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
+        <mark key="^" line="18" column="44" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB7IGJvZHksIGJhc2VVcmwsIGhvc3RuYW1lLCBvcmlnaW5hbFVybCwgbWV0aG9kIH0gPSBwcm94eVJlcTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>const fmaPrefix = 'yc.fma.';
+    const clientPrefix = 'yc.client.';</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>const fmaPrefix = 'yc.fma.';
+    const clientPrefix = 'yc.client.';</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBub05hdiA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzaWRlLW5hdi1pbnNlcnRpb24nKS5pbm5lckhUTUwgPT09ICcnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+     * 
+     * @returns {string|undefined}
+     */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bGV0IGN1cnJlbnRGbWFJZCA9ICRyb3V0ZS5jdXJyZW50LnBhdGhQYXJhbXMuZm1hSWQ7CiAgICBsZXQgY3VycmVudENsaWVudElkID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>let tokenPromise = tokenService.getToken();
+  let apiUrlPromise = apiUrlService.getYodleApiUrl();
+
+  let navigation;
+
+  let yoInitPromise = $q.all([apiUrlPromise, tokenPromise]).then(function(values) {
+    yo.init({
+      apiUrl: values[0],
+      apiToken: values[1].token,
+      window: window
+    });
+  });</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoJHJvdXRlLikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc0F1dGhvcml0eSgnRk1BXycgKyAjZm1hSWQpIikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgZnVuY3Rpb24gaXNGbWEob3duZXIpIHsKICAgIHJldHVybiBvd25lci5zbGljZSgwLCA3KSA9PT0gJ3ljLmZtYS4nOwogIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGNvd21vbyBvbiA2LzE0LzE3LgogKi8=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBXZWJTZWN1cml0eSB7Cn0=</text>
+        <text>if (ownerId.slice(0, 7) === 'yc.fma.') {
+          navigationOptions.iconNav = true;
+          insertStylesheet('/offer/assets/css/nav.css');
+        }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text encoding="base64">J3ljLmNsaWVudC4nIA==</text>
       </register>
     </registers>
     <search>
