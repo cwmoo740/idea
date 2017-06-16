@@ -9,11 +9,10 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497631756180">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="20" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497632547895">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1497464856859">
         <mark key="[" line="0" column="0" />
@@ -59,27 +58,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB7IGJvZHksIGJhc2VVcmwsIGhvc3RuYW1lLCBvcmlnaW5hbFVybCwgbWV0aG9kIH0gPSBwcm94eVJlcTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>const fmaPrefix = 'yc.fma.';
-    const clientPrefix = 'yc.client.';</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>const fmaPrefix = 'yc.fma.';
-    const clientPrefix = 'yc.client.';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>const fmaPrefix = 'yc.fma.';
+    const clientPrefix = 'yc.client.';</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>/**
      * 
      * @returns {string|undefined}
      */</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bGV0IGN1cnJlbnRGbWFJZCA9ICRyb3V0ZS5jdXJyZW50LnBhdGhQYXJhbXMuZm1hSWQ7CiAgICBsZXQgY3VycmVudENsaWVudElkID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>let tokenPromise = tokenService.getToken();
   let apiUrlPromise = apiUrlService.getYodleApiUrl();
 
@@ -92,21 +102,6 @@
       window: window
     });
   });</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoJHJvdXRlLikK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZnVuY3Rpb24gaXNGbWEob3duZXIpIHsKICAgIHJldHVybiBvd25lci5zbGljZSgwLCA3KSA9PT0gJ3ljLmZtYS4nOwogIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (ownerId.slice(0, 7) === 'yc.fma.') {
-          navigationOptions.iconNav = true;
-          insertStylesheet('/offer/assets/css/nav.css');
-        }</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J3ljLmNsaWVudC4nIA==</text>
