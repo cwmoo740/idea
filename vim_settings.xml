@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
-        <mark key="^" line="129" column="5" />
+        <mark key="^" line="139" column="5" />
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497894796678">
@@ -70,13 +70,23 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="6" column="58" />
       </file>
+      <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/controller/IndexController.java" timestamp="1497899959026">
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="75" column="51" />
+        <mark key="." line="75" column="51" />
+        <mark key="^" line="75" column="51" />
+      </file>
+      <file name="$USER_HOME$/src/java/sense-of-network-ui/frontend/src/index.tsx" timestamp="1497899342422">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497894332318">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="38" column="8" />
         <mark key="." line="38" column="8" />
         <mark key="^" line="38" column="8" />
       </file>
-      <file name="/global-context-ctrl.js" timestamp="1497886444262" />
     </filemarks>
     <jumps />
     <registers>
@@ -84,37 +94,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoInNhcmFoIiwgdHJ1ZSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbWEnLGZtYSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTQVJBSCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbWEnLGZtYSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBpZD0ic2Nyb2xsLXdyYXBwZXIiPgo=</text>
+        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxMDI0cHg7Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDogYXV0bzsK</text>
+        <text encoding="base64">PGRpdiBpZD0ic2Nyb2xsLXdyYXBwZXIiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMjRweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxMDI0cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjcGFnZS13cmFwcGVyIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDogYXV0bzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm1hSWQgPT0gMTk2MTYyICYmIA==</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
