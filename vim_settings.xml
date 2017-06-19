@@ -9,8 +9,8 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497886520074">
-        <mark key="[" line="90" column="0" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497887586963">
+        <mark key="[" line="91" column="52" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="91" column="16" />
@@ -28,6 +28,11 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
+      </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497887688364">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
         <mark key="[" line="103" column="0" />
@@ -79,8 +84,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy4kcm91dGUgPSAkcm91dGU7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy4kcm91dGUgPSAkcm91dGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm1hSWQgPT0gMTk2MTYyICYmIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCRyb3V0ZS5jdXJyZW50KSk7Cg==</text>
@@ -119,7 +124,7 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRPd25lcigpIHsKICAgICAgICBsZXQgZm1hID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5mbWFJZDsKICAgICAgICBsZXQgY2xpZW50ID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsKICAgICAgICBsZXQgb3duZXI7CiAgICAgICAgaWYgKGZtYSkgewogICAgICAgICAgICBvd25lciA9IGZtYVByZWZpeCArIGZtYTsKICAgICAgICB9IGVsc2UgaWYgKGNsaWVudCkgewogICAgICAgICAgICBvd25lciA9IGNsaWVudFByZWZpeCArIGNsaWVudDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG93bmVyOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Depdendencies</text>
+        <text encoding="base64">Zm1hSWQgPT0gMTk2MTYyICYmIA==</text>
       </register>
     </registers>
     <search>
