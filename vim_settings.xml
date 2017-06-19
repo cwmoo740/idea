@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497550947830">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="139" column="5" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="129" column="5" />
+        <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497887586963">
-        <mark key="[" line="91" column="52" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="91" column="16" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497891757117">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1497637549598">
         <mark key="[" line="0" column="0" />
@@ -69,10 +69,11 @@
         <mark key="]" line="5" column="89" />
         <mark key="." line="5" column="89" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497883809898">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497892910855">
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="38" column="8" />
       </file>
       <file name="/global-context-ctrl.js" timestamp="1497886444262" />
     </filemarks>
@@ -82,49 +83,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxMDI0cHg7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy4kcm91dGUgPSAkcm91dGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDogYXV0bzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCRyb3V0ZS5jdXJyZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMjRweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjcGFnZS13cmFwcGVyIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RmJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJHJvdXRlQ2hhbmdlU3VjY2VzcycsIGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxleC1mbG93OiByb3cgbm93cmFwOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZmxleCAhaW1wb3J0YW50Owo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLmNlbnRlcm1hcmstbmF2IHsKICAgICAgICAgICAgZmxleDogMCAwIGF1dG87CiAgICAgICAgICAgIHdpZHRoOiAyNDBweDsKICAgICAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text>function replaceThemeLink(themeKey) {
-    const oldBrandCss = document.getElementById('brand-css');
-    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
-    if (href === oldBrandCss.href) {
-        return;
-    }
-
-    const head = document.getElementsByTagName('head')[0];
-    const newBrandCss = document.createElement('link');
-    newBrandCss.rel = 'stylesheet';
-    newBrandCss.href = href;
-    head.replaceChild(newBrandCss, oldBrandCss);
-}</text>
+        <text encoding="base64">CiAgICAgICAgLmNlbnRlcm1hcmstbmF2IHsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg3LCAzMiwgNjQsIDEpOwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBmbGV4OiAwIDAgMjQwcHg7CiAgICAgICAgICAgIGZsZXgtZmxvdzogY29sdW1uIG5vd3JhcDsKICAgICAgICAgICAgaGVpZ2h0OiAxMDB2aDsKICAgICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzsKICAgICAgICAgICAgd2lkdGg6IDI0MHB4CiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm1hSWQgPT0gMTk2MTYyICYmIA==</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
