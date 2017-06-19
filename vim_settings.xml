@@ -9,13 +9,13 @@
         <mark key="^" line="129" column="5" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497891757117">
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="22" column="2" />
-        <mark key="." line="22" column="2" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497894796678">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
         <mark key="^" line="22" column="2" />
+        <mark key="." line="92" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497637549598">
+      <file name="/Dummy.txt" timestamp="1497894124208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
@@ -29,7 +29,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497889110353">
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497894435062">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -64,12 +64,13 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/index.html" timestamp="1497631077506">
-        <mark key="[" line="5" column="89" />
-        <mark key="]" line="5" column="89" />
-        <mark key="." line="5" column="89" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/index.html" timestamp="1497894343217">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497892910855">
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497894332318">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="38" column="8" />
         <mark key="." line="38" column="8" />
@@ -83,37 +84,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxMDI0cHg7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDogYXV0bzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbWEnLGZtYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMjRweDsK</text>
+        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjcGFnZS13cmFwcGVyIHsK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0ic2Nyb2xsLXdyYXBwZXIiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleC1mbG93OiByb3cgbm93cmFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluLXdpZHRoOiAxMDI0cHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZmxleCAhaW1wb3J0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDogYXV0bzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMjRweDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLmNlbnRlcm1hcmstbmF2IHsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSg3LCAzMiwgNjQsIDEpOwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBmbGV4OiAwIDAgMjQwcHg7CiAgICAgICAgICAgIGZsZXgtZmxvdzogY29sdW1uIG5vd3JhcDsKICAgICAgICAgICAgaGVpZ2h0OiAxMDB2aDsKICAgICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzsKICAgICAgICAgICAgd2lkdGg6IDI0MHB4CiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjcGFnZS13cmFwcGVyIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Zm1hSWQgPT0gMTk2MTYyICYmIA==</text>
       </register>
     </registers>
     <search>
