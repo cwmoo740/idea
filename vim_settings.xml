@@ -9,9 +9,11 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497640811562">
-        <mark key="[" line="4" column="85" />
-        <mark key="." line="119" column="33" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497883732046">
+        <mark key="[" line="109" column="51" />
+        <mark key="]" line="109" column="55" />
+        <mark key="." line="109" column="55" />
+        <mark key="^" line="109" column="55" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -57,80 +59,61 @@
       <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1497883809898">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>function replaceThemeLink(themeKey) {
-    const oldBrandCss = document.getElementById('brand-css');
-    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
-    if (href === oldBrandCss.href) {
-        return;
-    }
-
-    const head = document.getElementsByTagName('head')[0];
-    const newBrandCss = document.createElement('link');
-    newBrandCss.rel = 'stylesheet';
-    newBrandCss.href = href;
-    head.replaceChild(newBrandCss, oldBrandCss);
-}</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>function replaceThemeLink(themeKey) {
-    const oldBrandCss = document.getElementById('brand-css');
-    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
-    if (href === oldBrandCss.href) {
-        return;
-    }
-
-    const head = document.getElementsByTagName('head')[0];
-    const newBrandCss = document.createElement('link');
-    newBrandCss.rel = 'stylesheet';
-    newBrandCss.href = href;
-    head.replaceChild(newBrandCss, oldBrandCss);
-}</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRPd25lcigpIHsKICAgICAgICBsZXQgZm1hID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5mbWFJZDsKICAgICAgICBsZXQgY2xpZW50ID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsKICAgICAgICBsZXQgb3duZXI7CiAgICAgICAgaWYgKGZtYSkgewogICAgICAgICAgICBvd25lciA9IGZtYVByZWZpeCArIGZtYTsKICAgICAgICB9IGVsc2UgaWYgKGNsaWVudCkgewogICAgICAgICAgICBvd25lciA9IGNsaWVudFByZWZpeCArIGNsaWVudDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG93bmVyOwogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwcmV2T3duZXJJZDsK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLmNlbnRlcm1hcmstbmF2IHsKICAgICAgICAgICAgZmxleDogMCAwIGF1dG87CiAgICAgICAgICAgIHdpZHRoOiAyNDBweDsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text>function replaceThemeLink(themeKey) {
+    const oldBrandCss = document.getElementById('brand-css');
+    const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
+    if (href === oldBrandCss.href) {
+        return;
+    }
+
+    const head = document.getElementsByTagName('head')[0];
+    const newBrandCss = document.createElement('link');
+    newBrandCss.rel = 'stylesheet';
+    newBrandCss.href = href;
+    head.replaceChild(newBrandCss, oldBrandCss);
+}</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRPd25lcigpIHsKICAgICAgICBsZXQgZm1hID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5mbWFJZDsKICAgICAgICBsZXQgY2xpZW50ID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsKICAgICAgICBsZXQgb3duZXI7CiAgICAgICAgaWYgKGZtYSkgewogICAgICAgICAgICBvd25lciA9IGZtYVByZWZpeCArIGZtYTsKICAgICAgICB9IGVsc2UgaWYgKGNsaWVudCkgewogICAgICAgICAgICBvd25lciA9IGNsaWVudFByZWZpeCArIGNsaWVudDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG93bmVyOwogICAgfQ==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwcmV2T3duZXJJZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kb24oJyRyb3V0ZUNoYW5nZVN1Y2Nlc3MnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>renderNav(owner)
-            .then(function () {
-                return ownerService.getOwnerDataResponse(owner);
-            })
-            .then(function (ownerData) {
-                // do nothing
-            }, function (errorResponse) {
-                if (errorResponse.status === 404) {
-                    window.location.href = '/error/404'
-                } else {
-                    console.error('Could not determine owner', errorResponse);
-                }
-            });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRzY29wZS4kb24oJyRyb3V0ZUNoYW5nZVN1Y2Nlc3MnLCBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>getOwnerDataResponse</text>
+        <text>errorResponse</text>
       </register>
     </registers>
     <search>
