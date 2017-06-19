@@ -9,11 +9,11 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497883732046">
-        <mark key="[" line="109" column="51" />
-        <mark key="]" line="109" column="55" />
-        <mark key="." line="109" column="55" />
-        <mark key="^" line="109" column="55" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1497886520074">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="91" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1497637549598">
         <mark key="[" line="0" column="0" />
@@ -69,6 +69,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="/global-context-ctrl.js" timestamp="1497886444262" />
     </filemarks>
     <jumps />
     <registers>
@@ -76,15 +77,30 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy4kcm91dGUgPSAkcm91dGU7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy4kcm91dGUgPSAkcm91dGU7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCRyb3V0ZS5jdXJyZW50KSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RmJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJHJvdXRlQ2hhbmdlU3VjY2VzcycsIGZ1bmN0aW9uICgpIHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Depdendencies</text>
-      </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgLmNlbnRlcm1hcmstbmF2IHsKICAgICAgICAgICAgZmxleDogMCAwIGF1dG87CiAgICAgICAgICAgIHdpZHRoOiAyNDBweDsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>function replaceThemeLink(themeKey) {
     const oldBrandCss = document.getElementById('brand-css');
     const href = 'https://cdn.ycdn.io/assets/bootstrap/0.0.1.1/' + themeKey + '/bootstrap.min.css';
@@ -99,23 +115,8 @@
     head.replaceChild(newBrandCss, oldBrandCss);
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBnZXRPd25lcigpIHsKICAgICAgICBsZXQgZm1hID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5mbWFJZDsKICAgICAgICBsZXQgY2xpZW50ID0gJHJvdXRlLmN1cnJlbnQucGF0aFBhcmFtcy5jbGllbnRJZDsKICAgICAgICBsZXQgb3duZXI7CiAgICAgICAgaWYgKGZtYSkgewogICAgICAgICAgICBvd25lciA9IGZtYVByZWZpeCArIGZtYTsKICAgICAgICB9IGVsc2UgaWYgKGNsaWVudCkgewogICAgICAgICAgICBvd25lciA9IGNsaWVudFByZWZpeCArIGNsaWVudDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG93bmVyOwogICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBwcmV2T3duZXJJZDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kb24oJyRyb3V0ZUNoYW5nZVN1Y2Nlc3MnLCBmdW5jdGlvbiAoKSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Depdendencies</text>
