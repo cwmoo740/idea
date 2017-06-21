@@ -25,11 +25,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498074732008">
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
-        <mark key="]" line="88" column="2" />
-        <mark key="^" line="88" column="2" />
-        <mark key="." line="88" column="2" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/controller/IndexController.java" timestamp="1497899959026">
         <mark key="[" line="75" column="51" />
@@ -53,18 +53,13 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1498065525817">
-        <mark key="[" line="2" column="94" />
-        <mark key="]" line="2" column="94" />
-        <mark key="." line="2" column="94" />
-      </file>
       <file name="/Dummy.txt" timestamp="1498074713222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/server/index.html" timestamp="1497463094116">
         <mark key="[" line="30" column="0" />
@@ -100,24 +95,27 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>ownerService.isValidOwner(owner)
       .then(function () {
         // do nothing
@@ -130,17 +128,14 @@
         }
       })</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoInNhcmFoIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
+        <text>pause</text>
       </register>
     </registers>
     <search>
