@@ -14,9 +14,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
-        <mark key="^" line="18" column="44" />
-      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
@@ -27,6 +24,12 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498074732008">
+        <mark key="[" line="88" column="2" />
+        <mark key="]" line="88" column="2" />
+        <mark key="^" line="88" column="2" />
+        <mark key="." line="88" column="2" />
       </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/controller/IndexController.java" timestamp="1497899959026">
         <mark key="[" line="75" column="51" />
@@ -51,18 +54,17 @@
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1498065525817">
-        <mark key="[" line="109" column="94" />
-        <mark key="]" line="109" column="94" />
-        <mark key="." line="109" column="94" />
-        <mark key="^" line="91" column="30" />
+        <mark key="[" line="2" column="94" />
+        <mark key="]" line="2" column="94" />
+        <mark key="." line="2" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498067731212">
+      <file name="/Dummy.txt" timestamp="1498074713222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/server/index.html" timestamp="1497463094116">
         <mark key="[" line="30" column="0" />
@@ -74,7 +76,7 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1497885334620">
+      <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
