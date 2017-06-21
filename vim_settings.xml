@@ -9,14 +9,19 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1498064847188">
-        <mark key="[" line="107" column="35" />
-        <mark key="]" line="108" column="28" />
-        <mark key="^" line="108" column="28" />
-        <mark key="." line="108" column="28" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/global-context-ctrl.js" timestamp="1498065525817">
+        <mark key="[" line="109" column="94" />
+        <mark key="]" line="109" column="94" />
+        <mark key="." line="109" column="94" />
+        <mark key="^" line="91" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498063154643">
+      <file name="/Dummy.txt" timestamp="1498065471454">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
         <mark key="[" line="160" column="5" />
@@ -47,6 +52,7 @@
       <file name="$USER_HOME$/src/java/pacman/frontend/server/server.js" timestamp="1497465706884">
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/controller/OwnerController.java" timestamp="1498065778913" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
@@ -86,37 +92,47 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
+        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text encoding="base64">J293bmVyU2VydmljZScsIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoInNhcmFoIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTQVJBSCcpOwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGllbnQnLGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmbWEnLGZtYSk7Cg==</text>
+      <register name="6" type="4">
+        <text>ownerService.isValidOwner(owner)
+      .then(function () {
+        // do nothing
+      }, function (error) {
+        if (error.status === 404) {
+          console.log('wtf');
+          // window.location.href = '/error/404'
+        } else {
+          console.error('Could not determine owner', error);
+        }
+      })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vTmF2UmVuZGVyZXJTZXJ2aWNlIHVzZSBsaW1pdGVkIHRvIG9ubHkgdGhpcyBmbWEgZm9yIG5vdwo=</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBpZD0ic2Nyb2xsLXdyYXBwZXIiPgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoInNhcmFoIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text encoding="base64">J293bmVyU2VydmljZScsIA==</text>
       </register>
     </registers>
     <search>
