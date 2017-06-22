@@ -72,11 +72,11 @@
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498162056308">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498163747927">
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="0" column="78" />
+        <mark key="^" line="0" column="78" />
+        <mark key="." line="0" column="78" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/local/local-offers-create.spec.js" timestamp="1498063358354">
         <mark key="[" line="22" column="71" />
@@ -94,27 +94,30 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
+        <text encoding="base64">TEFCRUwgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">WG14NTEybSA=</text>
+        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>ownerService.isValidOwner(owner)
       .then(function () {
         // do nothing
@@ -127,14 +130,11 @@
         }
       })</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WG14NTEybSA=</text>
+        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
       </register>
     </registers>
     <search>
