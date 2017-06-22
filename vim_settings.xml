@@ -72,8 +72,8 @@
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498158350003">
-        <mark key="[" line="11" column="23" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498162056308">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
@@ -97,7 +97,7 @@
         <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">MjU2bSA=</text>
+        <text encoding="base64">WG14NTEybSA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
@@ -134,7 +134,7 @@
         <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjU2bSA=</text>
+        <text encoding="base64">WG14NTEybSA=</text>
       </register>
     </registers>
     <search>
