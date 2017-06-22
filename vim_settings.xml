@@ -72,11 +72,11 @@
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498163747927">
-        <mark key="[" line="0" column="66" />
-        <mark key="]" line="0" column="78" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498164485697">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
         <mark key="^" line="0" column="78" />
-        <mark key="." line="0" column="78" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/local/local-offers-create.spec.js" timestamp="1498063358354">
         <mark key="[" line="22" column="71" />
@@ -97,7 +97,7 @@
         <text encoding="base64">TEFCRUwgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
@@ -134,7 +134,7 @@
         <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>d42105a472e39e8fb1fe1b089c6809883fe7e814</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
