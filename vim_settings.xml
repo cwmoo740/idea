@@ -28,11 +28,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498235929650">
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498237977372">
         <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="25" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="25" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497894435062">
         <mark key="[" line="39" column="0" />
@@ -90,6 +90,7 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498237885998" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/local/local-offers-create.spec.js" timestamp="1498063358354">
         <mark key="[" line="22" column="71" />
         <mark key="^" line="23" column="6" />
@@ -196,6 +197,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
