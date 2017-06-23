@@ -28,6 +28,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498232775487">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497894435062">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -42,6 +48,12 @@
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498233099989">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="2" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -93,31 +105,34 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">TEFCRUwgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29ycG9yYXRlUmVsYXRpb25zaGlwU2VydmljZS5nZXRDbGllbnRJZHNHaXZlbkV4dGVybmFsTG9jYXRpb25JZHMoUExBQ0VIT0xERVIsIGZtYUlkLCBleHRlcm5hbElkcy50b1NldCkgbWFwIHsgbWFwcGluZyA9PgogICAgICBKc29uLnRvSnNvbihtYXBwaW5nLnRvTWFwKQogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RnV0dXJlIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
+        <text encoding="base64">TEFCRUwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ownerService.isValidOwner(owner)
       .then(function () {
         // do nothing
@@ -130,11 +145,8 @@
         }
       })</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlci5wYXVzZSgpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RnV0dXJlIA==</text>
       </register>
     </registers>
     <search>
