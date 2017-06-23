@@ -28,11 +28,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498239486009">
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="25" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="25" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498244277596">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497894435062">
         <mark key="[" line="39" column="0" />
@@ -48,6 +47,12 @@
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/application.conf" timestamp="1498244403013">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="11" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="65" column="11" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
@@ -90,7 +95,12 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498237885998" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/local/local-offers-create.spec.js" timestamp="1498063358354">
         <mark key="[" line="22" column="71" />
         <mark key="^" line="23" column="6" />
@@ -107,37 +117,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQm9keVBhcnNlci5PZih2YWx1ZSA9IEJvZHlQYXJzZXIuSnNvbiwgbWF4TGVuZ3RoID0gMTAgKiAxMCAqIDEwICogMTAyNCApCg==</text>
+        <text encoding="base64">ICB0eXBlIEpzb25BY3Rpb25XaXRoVXNlciA9IFVzZXIgPT4gQWN0aW9uW0pzVmFsdWVdCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXNKc29uIA==</text>
+        <text>json</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y29ycG9yYXRlUmVsYXRpb25zaGlwU2VydmljZS5nZXRDbGllbnRJZHNHaXZlbkV4dGVybmFsTG9jYXRpb25JZHMoUExBQ0VIT0xERVIsIGZtYUlkLCBleHRlcm5hbElkcy50b1NldCkgbWFwIHsgbWFwcGluZyA9PgogICAgICBKc29uLnRvSnNvbihtYXBwaW5nLnRvTWFwKQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmVxdWVzdC5ib2R5LmFzSnNvbgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">TEFCRUwgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cmVjb3ZlciB7CiAgICAgICAgICAgIGNhc2UgdDogVGhyb3dhYmxlID0+CiAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKHMiRmFpbGVkIHRvIGNyZWF0ZSBjb250YWN0cyAoZm1hSWQ6ICRmbWFJZCkiLCB0KQogICAgICAgICAgICAgIEludGVybmFsU2VydmVyRXJyb3IoSnNvbi5vYmooInN1Y2Nlc3MiIC0+IGZhbHNlKSkKICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIuZGVidWdnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWQuYm9keSBtYXRjaCB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuc2VydmljZSgnb3duZXJTZXJ2aWNlJywgb3duZXJTZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTGVmdChfKSA9PiAgRnV0dXJlKEJhZFJlcXVlc3QoSnNvbi5vYmooInN1Y2Nlc3MiIC0+IGZhbHNlKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG93bmVyU2VydmljZSBmcm9tICcuL3NlcnZpY2Uvb3duZXItc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTGVmdChfKSA9PiAgRnV0dXJlKEJhZFJlcXVlc3QoSnNvbi5vYmooInN1Y2Nlc3MiIC0+IGZhbHNlKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWQuYm9keSBtYXRjaCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmVxdWVzdC5ib2R5LmFzSnNvbiBtYXRjaCB7CiAgICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZShCYWRSZXF1ZXN0KEpzb24ub2JqKCJzdWNjZXNzIiAtPiBmYWxzZSkpKQogICAgICAgIGNhc2UgU29tZShjb250YWN0c0pzb24pID0+CiAgICAgICAgICBjcmVhdGVDb250YWN0c0Zyb21Kc29uKGZtYUlkLCBjb250YWN0c0pzb24pIG1hcCB7IHJlc3BvbnNlID0+CiAgICAgICAgICAgIE9rKEpzb24udG9Kc29uKHJlc3BvbnNlKSkKICAgICAgICAgIH0gcmVjb3ZlciB7CiAgICAgICAgICAgIGNhc2UgdDogVGhyb3dhYmxlID0+CiAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKHMiRmFpbGVkIHRvIGNyZWF0ZSBjb250YWN0cyAoZm1hSWQ6ICRmbWFJZCkiLCB0KQogICAgICAgICAgICAgIEludGVybmFsU2VydmVyRXJyb3IoSnNvbi5vYmooInN1Y2Nlc3MiIC0+IGZhbHNlKSkKICAgICAgICAgIH0KICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNKc29uIA==</text>
+        <text>json</text>
       </register>
     </registers>
     <search>
