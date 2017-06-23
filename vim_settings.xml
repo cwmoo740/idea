@@ -28,11 +28,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="125" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498237977372">
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498239486009">
         <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="12" />
-        <mark key="^" line="42" column="12" />
-        <mark key="." line="42" column="12" />
+        <mark key="]" line="42" column="25" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="42" column="25" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1497894435062">
         <mark key="[" line="39" column="0" />
