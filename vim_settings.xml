@@ -39,6 +39,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1499296943375">
+        <mark key="[" line="61" column="53" />
+        <mark key="]" line="61" column="53" />
+        <mark key="^" line="61" column="53" />
+        <mark key="." line="61" column="53" />
+      </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -66,8 +72,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1498838340069">
-        <mark key="[" line="26" column="34" />
+      <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+        <mark key="^" line="40" column="48" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/WebSecurity.java" timestamp="1497464231859">
         <mark key="[" line="11" column="12" />
@@ -126,37 +135,41 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwbGljYXRpb24sCg==</text>
+      <register name="2" type="4">
+        <text>path.contains(&quot;network&quot;)) {
+            return SELECTED_QUERY + &quot;configure-network-offers-tab&quot;;
+        } else if (path.contains(&quot;templates&quot;)) {
+            return SELECTED_QUERY + &quot;corporate-templates-tab&quot;;
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAib2ZmZXJzIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRTZWxlY3RlZFF1ZXJ5UGFyYW0oU3RyaW5nIHBhdGgpIHsKICAgICAgICBpZiAocGF0aC5jb250YWlucygibmV0d29yayIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb25maWd1cmUtbmV0d29yay1vZmZlcnMtdGFiIjsKICAgICAgICB9IGVsc2UgaWYgKHBhdGguY29udGFpbnMoInRlbXBsYXRlcyIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb3Jwb3JhdGUtdGVtcGxhdGVzLXRhYiI7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiIjsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9IHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IHRhYnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwbGljYXRpb24sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBPRkZFUlNfVUlfVEFCID0gIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAib2ZmZXJzIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;?selected=</text>
+        <text>path</text>
       </register>
     </registers>
     <search>
