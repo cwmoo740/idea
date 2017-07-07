@@ -21,6 +21,11 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/activity_main.xml" timestamp="1499467430148">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
@@ -54,6 +59,12 @@
         <mark key="[" line="22" column="71" />
         <mark key="^" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+      </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -66,7 +77,7 @@
         <mark key="^" line="49" column="66" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498229288358">
+      <file name="/Dummy.txt" timestamp="1499467404691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
@@ -118,6 +129,7 @@
         <mark key="." line="308" column="37" />
         <mark key="^" line="308" column="56" />
       </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/values/dimens.xml" timestamp="1499467539950" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -134,6 +146,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1499468182208">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -141,41 +156,41 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGNvd21vbyBvbiA3LzcvMTcuCiAqLw==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSJAZGltZW4vZmFiX21hcmdpbiIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIgogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>path.contains(&quot;network&quot;)) {
             return SELECTED_QUERY + &quot;configure-network-offers-tab&quot;;
         } else if (path.contains(&quot;templates&quot;)) {
             return SELECTED_QUERY + &quot;corporate-templates-tab&quot;;
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRTZWxlY3RlZFF1ZXJ5UGFyYW0oU3RyaW5nIHBhdGgpIHsKICAgICAgICBpZiAocGF0aC5jb250YWlucygibmV0d29yayIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb25maWd1cmUtbmV0d29yay1vZmZlcnMtdGFiIjsKICAgICAgICB9IGVsc2UgaWYgKHBhdGguY29udGFpbnMoInRlbXBsYXRlcyIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb3Jwb3JhdGUtdGVtcGxhdGVzLXRhYiI7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiIjsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9IHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGF1dG87Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBwbGljYXRpb24sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFwcGxpY2F0aW9uCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
     </registers>
     <search>
