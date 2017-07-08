@@ -21,16 +21,16 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/activity_main.xml" timestamp="1499467430148">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/activity_main.xml" timestamp="1499490781994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/activity/MainActivity.kt" timestamp="1499475032437">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="37" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/activity/MainActivity.kt" timestamp="1499490933583">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -79,7 +79,7 @@
         <mark key="^" line="49" column="66" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499467404691">
+      <file name="/Dummy.txt" timestamp="1499490948085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
@@ -103,10 +103,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/domain/Quote.kt" timestamp="1499471353142">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/domain/Quote.kt" timestamp="1499489432654">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
         <mark key="[" line="103" column="0" />
@@ -130,11 +131,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499479310590">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499490689309">
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
@@ -154,11 +155,11 @@
         <mark key="." line="308" column="37" />
         <mark key="^" line="308" column="56" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainViewModel.kt" timestamp="1499479743526">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainViewModel.kt" timestamp="1499489540993">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainActivityViewModel.kt" timestamp="1499474664772">
         <mark key="[" line="5" column="60" />
@@ -171,6 +172,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/content_main.xml" timestamp="1499490841428">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/frontend/src/index.tsx" timestamp="1497899342422">
         <mark key="[" line="12" column="0" />
@@ -192,41 +199,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="4">
-        <text>fun what():Quote {
-        return quote
-    }</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgLy8gSGFuZGxlIGFjdGlvbiBiYXIgaXRlbSBjbGlja3MgaGVyZS4gVGhlIGFjdGlvbiBiYXIgd2lsbAogICAgICAgIC8vIGF1dG9tYXRpY2FsbHkgaGFuZGxlIGNsaWNrcyBvbiB0aGUgSG9tZS9VcCBidXR0b24sIHNvIGxvbmcKICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgogICAgICAgIHZhbCBpZCA9IGl0ZW0uaXRlbUlkCgoKICAgICAgICBpZiAoaWQgPT0gUi5pZC5hY3Rpb25fc2V0dGluZ3MpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiB7CiAgICAgICAgLy8gSGFuZGxlIGFjdGlvbiBiYXIgaXRlbSBjbGlja3MgaGVyZS4gVGhlIGFjdGlvbiBiYXIgd2lsbAogICAgICAgIC8vIGF1dG9tYXRpY2FsbHkgaGFuZGxlIGNsaWNrcyBvbiB0aGUgSG9tZS9VcCBidXR0b24sIHNvIGxvbmcKICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgogICAgICAgIHZhbCBpZCA9IGl0ZW0uaXRlbUlkCgoKICAgICAgICBpZiAoaWQgPT0gUi5pZC5hY3Rpb25fc2V0dGluZ3MpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CgogICAgICAgIHJldHVybiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFZpZXdNb2RlbFByb3ZpZGVycy5vZih0aGlzKS5nZXQoTWFpbkFjdGl2aXR5Vmlld01vZGVsLmNsYXNzICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1vZGVsIDogTWFpbkFjdGl2aXR5Vmlld01vZGVsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGVPcHRpb25zTWVudShtZW51OiBNZW51KTogQm9vbGVhbiB7CiAgICAgICAgLy8gSW5mbGF0ZSB0aGUgbWVudTsgdGhpcyBhZGRzIGl0ZW1zIHRvIHRoZSBhY3Rpb24gYmFyIGlmIGl0IGlzIHByZXNlbnQuCiAgICAgICAgbWVudUluZmxhdGVyLmluZmxhdGUoUi5tZW51Lm1lbnVfbWFpbiwgbWVudSkKICAgICAgICByZXR1cm4gdHJ1ZQogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>fun Bundle.onCreateView(inflater: LayoutInflater, container: ViewGroup): View {
-        return inflater.inflate(R.layout.fragment_main, container, false)
-    }</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZmFiLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXcgLT4KICAgICAgICAgICAgU25hY2tiYXIubWFrZSh2aWV3LCAiUmVwbGFjZSB3aXRoIHlvdXIgb3duIGFjdGlvbiIsIFNuYWNrYmFyLkxFTkdUSF9MT05HKQogICAgICAgICAgICAgICAgICAgIC5zZXRBY3Rpb24oIkFjdGlvbiIsIG51bGwpLnNob3coKQogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmFiID0gZmluZFZpZXdCeUlkKFIuaWQuZmFiKSBhcyBGbG9hdGluZ0FjdGlvbkJ1dHRvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9vbGJhciA9IGZpbmRWaWV3QnlJZChSLmlkLnRvb2xiYXIpIGFzIFRvb2xiYXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>user_profile</text>
       </register>
     </registers>
     <search>
