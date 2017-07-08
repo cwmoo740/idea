@@ -55,10 +55,6 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/local/local-offers-create.spec.js" timestamp="1498063358354">
-        <mark key="[" line="22" column="71" />
-        <mark key="^" line="23" column="6" />
-      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="14" />
@@ -95,21 +91,44 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/api/Quotes.kt" timestamp="1499473167103">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/domain/Quote.kt" timestamp="1499471353142">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainActivityModel.kt" timestamp="1499473288063">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499467178455">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
+      <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499472703349">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499471649900">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
@@ -130,6 +149,11 @@
         <mark key="^" line="308" column="56" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/values/dimens.xml" timestamp="1499467539950" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainActivityViewModel.kt" timestamp="1499473793108">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -156,41 +180,39 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGNvd21vbyBvbiA3LzcvMTcuCiAqLw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSJAZGltZW4vZmFiX21hcmdpbiIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tIgogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>path.contains(&quot;network&quot;)) {
-            return SELECTED_QUERY + &quot;configure-network-offers-tab&quot;;
-        } else if (path.contains(&quot;templates&quot;)) {
-            return SELECTED_QUERY + &quot;corporate-templates-tab&quot;;
-        }</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBnZXRTZWxlY3RlZFF1ZXJ5UGFyYW0oU3RyaW5nIHBhdGgpIHsKICAgICAgICBpZiAocGF0aC5jb250YWlucygibmV0d29yayIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb25maWd1cmUtbmV0d29yay1vZmZlcnMtdGFiIjsKICAgICAgICB9IGVsc2UgaWYgKHBhdGguY29udGFpbnMoInRlbXBsYXRlcyIpKSB7CiAgICAgICAgICAgIHJldHVybiBTRUxFQ1RFRF9RVUVSWSArICJjb3Jwb3JhdGUtdGVtcGxhdGVzLXRhYiI7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiIjsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9IHJlcXVlc3QuZ2V0UmVxdWVzdFVSSSgpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFic3RyYWN0IHZhbCAgcXVvdGU6IFF1b3RlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHZhbCBxdW90ZTogUXVvdGUKICAgICAgICBnZXQoKSA9IHF1b3Rl</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHF1b3RlOiBRdW90ZQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGNvd21vbyBvbiA3LzcvMTcuCiAqLw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>/**
+ * A placeholder com.cowmoo.kenya.fragment containing a simple view.
+ */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
