@@ -130,11 +130,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499477404929">
-        <mark key="[" line="18" column="69" />
-        <mark key="]" line="18" column="69" />
-        <mark key="." line="18" column="69" />
-        <mark key="^" line="18" column="74" />
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499479310590">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
@@ -153,6 +153,12 @@
         <mark key="]" line="308" column="37" />
         <mark key="." line="308" column="37" />
         <mark key="^" line="308" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainViewModel.kt" timestamp="1499479743526">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/model/MainActivityViewModel.kt" timestamp="1499474664772">
         <mark key="[" line="5" column="60" />
@@ -185,40 +191,42 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+      <register name="1" type="4">
+        <text>fun what():Quote {
+        return quote
+    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFZpZXdNb2RlbFByb3ZpZGVycy5vZih0aGlzKS5nZXQoTWFpbkFjdGl2aXR5Vmlld01vZGVsLmNsYXNzICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1vZGVsIDogTWFpbkFjdGl2aXR5Vmlld01vZGVsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+      </register>
+      <register name="5" type="4">
         <text>fun Bundle.onCreateView(inflater: LayoutInflater, container: ViewGroup): View {
         return inflater.inflate(R.layout.fragment_main, container, false)
     }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IHZhbCAgcXVvdGU6IFF1b3RlCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHZhbCBxdW90ZTogUXVvdGUKICAgICAgICBnZXQoKSA9IHF1b3Rl</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
     </registers>
     <search>
