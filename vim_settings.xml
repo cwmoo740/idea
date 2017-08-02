@@ -6,11 +6,10 @@
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/fragment_main.xml" timestamp="1499493412303">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1501686192569">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="42" />
-        <mark key="^" line="25" column="42" />
-        <mark key="." line="25" column="42" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1501692549304">
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
         <mark key="[" line="160" column="5" />
@@ -58,11 +57,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/controller/IndexController.java" timestamp="1501685631810">
-        <mark key="[" line="85" column="72" />
-        <mark key="]" line="85" column="72" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/controller/IndexController.java" timestamp="1501691941819">
+        <mark key="[" line="85" column="125" />
+        <mark key="]" line="85" column="125" />
         <mark key="^" line="85" column="99" />
-        <mark key="." line="85" column="72" />
+        <mark key="." line="85" column="125" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/webpack.dev.js" timestamp="1501614802030">
         <mark key="[" line="12" column="22" />
@@ -234,7 +233,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1499468182208">
+      <file name="/fragment.java" timestamp="1501691697615">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -249,7 +248,7 @@
         }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>network-monitoring-tab</text>
+        <text>-reporting</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
@@ -276,7 +275,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>network-monitoring-tab</text>
+        <text>-reporting</text>
       </register>
     </registers>
     <search>
