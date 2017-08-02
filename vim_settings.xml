@@ -6,7 +6,12 @@
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/fragment_main.xml" timestamp="1499493412303">
         <mark key="[" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/server/server.js" timestamp="1501614404346" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1501686192569">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+      </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
         <mark key="[" line="160" column="5" />
         <mark key="]" line="162" column="8" />
@@ -52,6 +57,12 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/controller/IndexController.java" timestamp="1501685631810">
+        <mark key="[" line="85" column="72" />
+        <mark key="]" line="85" column="72" />
+        <mark key="^" line="85" column="99" />
+        <mark key="." line="85" column="72" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/webpack.dev.js" timestamp="1501614802030">
         <mark key="[" line="12" column="22" />
@@ -101,7 +112,7 @@
         <mark key="^" line="49" column="66" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501613805753">
+      <file name="/Dummy.txt" timestamp="1501685393568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/index.js" timestamp="1498065510134">
@@ -232,38 +243,40 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGgucmVzb2x2ZShmcm9udGVuZCwgJ3NlcnZlcicsICdlbnRyeS5qc3gnKQo=</text>
+      <register name="1" type="4">
+        <text>else {
+            return &quot;&quot;;
+        }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGgucmVzb2x2ZShmcm9udGVuZCwgJ3NlcnZlcicsICdlbnRyeS5qc3gnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>network-monitoring-tab</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IkB0eXBlcy9yZWFjdEAqIjoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgand0SGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoSldUX0hFQURFUik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIxNS42LjEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGgucmVzb2x2ZShmcm9udGVuZCwgJ3NlcnZlcicsICdlbnRyeS5qc3gnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IkB0eXBlcy9yZWFjdEAqIjoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2ZXJzaW9uICIxNS42LjEiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIxNi4wLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>path.resolve(frontend, 'server', 'entry.jsx') :</text>
+        <text>network-monitoring-tab</text>
       </register>
     </registers>
     <search>
