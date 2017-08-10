@@ -211,11 +211,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502394503133">
-        <mark key="[" line="149" column="147" />
-        <mark key="]" line="149" column="123" />
-        <mark key="." line="149" column="123" />
-        <mark key="^" line="149" column="123" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502394995373">
+        <mark key="[" line="149" column="138" />
+        <mark key="]" line="149" column="19" />
+        <mark key="." line="149" column="19" />
+        <mark key="^" line="149" column="19" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
@@ -252,7 +252,7 @@
         <text encoding="base64">R0VUCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhjZXB0aW9uIA==</text>
+        <text>messages</text>
       </register>
       <register name="2" type="4">
         <text>else {
@@ -281,7 +281,7 @@
         <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhjZXB0aW9uIA==</text>
+        <text>messages</text>
       </register>
     </registers>
     <search>
