@@ -211,11 +211,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502394995373">
-        <mark key="[" line="149" column="138" />
-        <mark key="]" line="149" column="19" />
-        <mark key="." line="149" column="19" />
-        <mark key="^" line="149" column="19" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502398746368">
+        <mark key="]" line="144" column="13" />
+        <mark key="." line="144" column="13" />
+        <mark key="^" line="144" column="13" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
