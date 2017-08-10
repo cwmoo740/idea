@@ -211,6 +211,12 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502386588456">
+        <mark key="[" line="149" column="90" />
+        <mark key="]" line="149" column="152" />
+        <mark key="." line="149" column="152" />
+        <mark key="^" line="149" column="152" />
+      </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -242,40 +248,40 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">R0VUCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXhjZXB0aW9uIA==</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
             return &quot;&quot;;
         }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>-reporting</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgand0SGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoSldUX0hFQURFUik7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGgucmVzb2x2ZShmcm9udGVuZCwgJ3NlcnZlcicsICdlbnRyeS5qc3gnKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">IkB0eXBlcy9yZWFjdEAqIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIxNS42LjEiCg==</text>
+        <text encoding="base64">IkB0eXBlcy9yZWFjdEAqIjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
+        <text encoding="base64">ICB2ZXJzaW9uICIxNS42LjEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-reporting</text>
+        <text encoding="base64">ZXhjZXB0aW9uIA==</text>
       </register>
     </registers>
     <search>
