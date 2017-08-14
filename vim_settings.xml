@@ -163,6 +163,7 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/Application.java" timestamp="1502722233285" />
       <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499472703349">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="19" column="0" />
@@ -186,6 +187,11 @@
         <mark key="]" line="40" column="48" />
         <mark key="." line="40" column="48" />
         <mark key="^" line="40" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/java/call-transcription-ui/src/main/java/com/yodle/ui/calltranscription/config/SecurityConfig.java" timestamp="1502722889726">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/WebSecurity.java" timestamp="1497464231859">
         <mark key="[" line="11" column="12" />
@@ -248,36 +254,36 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwLmNzcmYoKS5kaXNhYmxlKCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwLmNzcmYoKS5kaXNhYmxlKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwLmFwcGx5KGpzb25XZWJUb2tlbkNvbmZpZ3VyZXIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBqc29uV2ViVG9rZW5Db25maWd1cmVyLnNldEFjY2VwdFBhcmFtZXRlckp3dChhY2NlcHRKd3RQYXJhbWV0ZXIpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">R0VUCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>messages</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>else {
             return &quot;&quot;;
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgand0SGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoSldUX0hFQURFUik7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGgucmVzb2x2ZShmcm9udGVuZCwgJ3NlcnZlcicsICdlbnRyeS5qc3gnKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IkB0eXBlcy9yZWFjdEAqIjoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uICIxNS42LjEiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNvbHZlZCAiaHR0cHM6Ly9yZWdpc3RyeS55YXJucGtnLmNvbS9AdHlwZXMvcmVhY3QvLS9yZWFjdC0xNi4wLjAudGd6I2ZlYzdlNjMwMmUxMWMxY2QzMDcxMjlkOGNlMWU2ZDVkY2E0YTAyODMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>messages</text>
