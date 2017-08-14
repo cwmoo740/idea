@@ -99,6 +99,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/spring-microservice-authentication/5.4.1-11/a47e3109b151cf71ebd302bd9fca1a8cf5228a37/spring-microservice-authentication-5.4.1-11-sources.jar!/com/yodle/jetpack/authorization/spring/JsonWebTokenAuthenticationProvider.java" timestamp="1502724282539" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -234,6 +235,7 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/src/java/call-transcription-ui/src/main/java/com/yodle/ui/calltranscription/controller/IndexController.java" timestamp="1502724305903" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/frontend/src/index.tsx" timestamp="1497899342422">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
