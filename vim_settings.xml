@@ -46,6 +46,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/components/clients-modal/__tests__/clients-groups-modal-connected-container.test.tsx" timestamp="1503334693926">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/activity/MainActivity.kt" timestamp="1499490933583">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -265,36 +270,36 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzOiBKU09OLnBhcnNlKFtbJHtncm91cHN9XV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmNzcmYoKS5kaXNhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzOiBKU09OLnBhcnNlKFtbJHtncm91cHN9XV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLmFwcGx5KGpzb25XZWJUb2tlbkNvbmZpZ3VyZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwLmNzcmYoKS5kaXNhYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uV2ViVG9rZW5Db25maWd1cmVyLnNldEFjY2VwdFBhcmFtZXRlckp3dChhY2NlcHRKd3RQYXJhbWV0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwLmFwcGx5KGpzb25XZWJUb2tlbkNvbmZpZ3VyZXIpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBqc29uV2ViVG9rZW5Db25maWd1cmVyLnNldEFjY2VwdFBhcmFtZXRlckp3dChhY2NlcHRKd3RQYXJhbWV0ZXIpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">R0VUCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>else {
             return &quot;&quot;;
         }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgand0SGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoSldUX0hFQURFUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGMgPSBwYXRoLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RyaW5nIA==</text>
