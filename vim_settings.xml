@@ -17,6 +17,7 @@
         <mark key="." line="162" column="8" />
         <mark key="^" line="162" column="8" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/controller/IndexController.java" timestamp="1503327893960" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1499296943375">
         <mark key="[" line="61" column="53" />
         <mark key="]" line="61" column="53" />
@@ -29,7 +30,7 @@
         <mark key="." line="99" column="17" />
         <mark key="^" line="99" column="17" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/ClientSummary.java" timestamp="1503087939481">
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/ClientSummary.java" timestamp="1503088210172">
         <mark key="[" line="56" column="5" />
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="29" />
