@@ -106,11 +106,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/docker-base-images.md" timestamp="1503599337488">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="11" />
-        <mark key="." line="49" column="11" />
-        <mark key="^" line="49" column="11" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/docker-base-images.md" timestamp="1503603827268">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="^" line="62" column="110" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
@@ -226,7 +226,7 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503592450554">
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503602660973">
         <mark key="[" line="7" column="109" />
         <mark key="]" line="147" column="2" />
         <mark key="^" line="147" column="2" />
@@ -297,34 +297,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Start scripts and newrelic</text>
+        <text>https://docs.newrelic.com/docs/agents/nodejs-agent/getting-started/introduction-new-relic-nodejs)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WU9ETEVfTkVXX1JFTElDX0FQUF9OQU1FPSJhcHAtbmFtZTthcHAtbmFtZS1FTlZJUk9OTUVOVC1DQU5BUllTVEFHRSI7IC8vIE5ldyBSZWxpYyBleHBlY3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhlbiBpbiB0aGUgZG9ja2VyZmlsZSBwdXQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgZG9ja2VyZmlsCg==</text>
+        <text encoding="base64">VGhlbiBpbiB0aGUgZG9ja2VyZmlsZSBwdXQ6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">YGBgZG9ja2VyZmlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogQSBWRVJTSU9OIGZpbGUgcHJvdmlkZXMgYSB0YWcgd2hlbiBkZXBsb3lpbmcgdGhlIGltYWdlIHRvIG91ciByZWdpc3RyeQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Start scripts and newrelic</text>
+        <text>https://docs.newrelic.com/docs/agents/nodejs-agent/getting-started/introduction-new-relic-nodejs)</text>
       </register>
     </registers>
     <search>
