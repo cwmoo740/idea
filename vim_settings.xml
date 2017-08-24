@@ -226,11 +226,10 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503605299312">
-        <mark key="[" line="7" column="109" />
-        <mark key="]" line="35" column="8" />
-        <mark key="^" line="35" column="8" />
-        <mark key="." line="35" column="8" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503606696204">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499493702310">
         <mark key="[" line="17" column="36" />
@@ -278,7 +277,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/README.md" timestamp="1503605479598">
+      <file name="$USER_HOME$/src/markdown/aeg-docs/README.md" timestamp="1503606190421">
         <mark key="[" line="3" column="86" />
         <mark key="]" line="3" column="86" />
         <mark key="^" line="3" column="86" />
@@ -296,11 +295,11 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://docs.newrelic.com/docs/agents/nodejs-agent/getting-started/introduction-new-relic-nodejs)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WU9ETEVfTkVXX1JFTElDX0FQUF9OQU1FPSJhcHAtbmFtZTthcHAtbmFtZS1FTlZJUk9OTUVOVC1DQU5BUllTVEFHRSI7IC8vIE5ldyBSZWxpYyBleHBlY3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,19 +308,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhlbiBpbiB0aGUgZG9ja2VyZmlsZSBwdXQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgZG9ja2VyZmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://docs.newrelic.com/docs/agents/nodejs-agent/getting-started/introduction-new-relic-nodejs)</text>
