@@ -31,8 +31,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1503681909749">
-        <mark key="[" line="3" column="83" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1503683726632">
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="34" />
+        <mark key="^" line="41" column="34" />
+        <mark key="." line="41" column="34" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -300,10 +303,10 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">My4gCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>may cause authorization issues with many services.</text>
+        <text encoding="base64">aW5jbHVkZWQg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -312,13 +315,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,7 +333,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>may cause authorization issues with many services.</text>
+        <text encoding="base64">aW5jbHVkZWQg</text>
       </register>
     </registers>
     <search>
