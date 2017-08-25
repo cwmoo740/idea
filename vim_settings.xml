@@ -106,11 +106,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/docker-base-images.md" timestamp="1503605325803">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="75" column="11" />
-        <mark key="." line="75" column="11" />
-        <mark key="^" line="75" column="11" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/docker-base-images.md" timestamp="1503672599926">
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
@@ -183,6 +183,9 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-rubric.md" timestamp="1503673001472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/activity/MainActivity.kt" timestamp="1499490933583">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -226,10 +229,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503606696204">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503672343319">
+        <mark key="[" line="67" column="76" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499493702310">
         <mark key="[" line="17" column="36" />
@@ -295,8 +299,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>may cause authorization issues with many services.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,7 +327,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://docs.newrelic.com/docs/agents/nodejs-agent/getting-started/introduction-new-relic-nodejs)</text>
+        <text>may cause authorization issues with many services.</text>
       </register>
     </registers>
     <search>
