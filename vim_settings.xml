@@ -31,11 +31,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1503685617232">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="57" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1504030383850">
+        <mark key="[" line="46" column="75" />
+        <mark key="]" line="46" column="78" />
+        <mark key="^" line="46" column="78" />
+        <mark key="." line="46" column="78" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -303,37 +303,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQnV0IG1vbmdvIGlzIGFuIGluc3RhbnQgZGlzcXVhbGlmaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogQnV0IG1vbmdvIGlzIGFuIGluc3RhbnQgZGlzcXVhbGlmaWNhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>or 8</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">My4gCg==</text>
+        <text encoding="base64">IyMjIEdlbmVyYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogTmFtZSBvZiB0aGUgbWFpbnRhaW5lciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQnV0IG1vbmdvIGlzIGFuIGluc3RhbnQgZGlzcXVhbGlmaWNhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">My4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cnVuIA==</text>
+        <text>or 8</text>
       </register>
     </registers>
     <search>
