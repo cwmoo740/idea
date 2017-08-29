@@ -31,11 +31,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1504030383850">
-        <mark key="[" line="46" column="75" />
-        <mark key="]" line="46" column="78" />
-        <mark key="^" line="46" column="78" />
-        <mark key="." line="46" column="78" />
+      <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/template-projects.md" timestamp="1504032258070">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="41" />
+        <mark key="^" line="50" column="41" />
+        <mark key="." line="50" column="41" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/app/global/service/owner-service.js" timestamp="1497640299385">
         <mark key="[" line="16" column="5" />
@@ -306,7 +306,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>or 8</text>
+        <text>running on node 6 or 8</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyMjIEdlbmVyYWwK</text>
@@ -333,7 +333,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>or 8</text>
+        <text>running on node 6 or 8</text>
       </register>
     </registers>
     <search>
