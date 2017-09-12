@@ -133,6 +133,12 @@
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/app/actions.ts" timestamp="1505250231776">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
         <mark key="]" line="40" column="48" />
@@ -150,17 +156,21 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/clients/selectors.ts" timestamp="1505250139344">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1503332132502">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1505250951895">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1498750387005">
         <mark key="[" line="41" column="0" />
@@ -181,6 +191,11 @@
         <mark key="." line="162" column="8" />
         <mark key="^" line="162" column="8" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/controller/IndexController.java" timestamp="1505251034234">
+        <mark key="]" line="93" column="17" />
+        <mark key="^" line="93" column="17" />
+        <mark key="." line="93" column="17" />
+      </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
@@ -196,6 +211,9 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/server/index.ejs" timestamp="1505251487083">
+        <mark key="[" line="33" column="13" />
+      </file>
       <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -206,6 +224,11 @@
         <mark key="]" line="85" column="125" />
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="125" />
+      </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/utils/export.ts" timestamp="1505251447925">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498164485697">
         <mark key="[" line="11" column="19" />
@@ -245,6 +268,12 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/app/reducer/index.ts" timestamp="1505250294559">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+      </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/WebSecurity.java" timestamp="1497464231859">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -274,6 +303,12 @@
         <mark key="." line="144" column="13" />
         <mark key="^" line="144" column="13" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/app/reducer/features.ts" timestamp="1505250433800">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="59" />
+      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/content_main.xml" timestamp="1499490841428">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="45" />
@@ -301,37 +336,39 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHRoOmJsb2NrIHRoOnV0ZXh0PSIke25hdi5odG1sfSIvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>running on node 6 or 8</text>
+        <text>reducer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIEdlbmVyYWwK</text>
+        <text encoding="base64">ICAgIDxzdHlsZSB0aDp1dGV4dD0iJHtuYXYuY3NzfSI+PC9zdHlsZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogTmFtZSBvZiB0aGUgbWFpbnRhaW5lciAK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogQnV0IG1vbmdvIGlzIGFuIGluc3RhbnQgZGlzcXVhbGlmaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYUZlYXR1cmVzLmNvbnRhaW5zKCJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">My4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+                'fma.centermark.view-live-roi-dashboard': JSON.parse([[${fma.centermark.view-live-roi-dashboard}]])
+            }</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyMjIEdlbmVyYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICogTmFtZSBvZiB0aGUgbWFpbnRhaW5lciAK</text>
       </register>
       <register name="-" type="4">
-        <text>running on node 6 or 8</text>
+        <text>reducer</text>
       </register>
     </registers>
     <search>
