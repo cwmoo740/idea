@@ -129,7 +129,6 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/compliance/directives/compliance-summary.js" timestamp="1506006444190" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -210,7 +209,6 @@
         <mark key="^" line="93" column="17" />
         <mark key="." line="93" column="17" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/templates/review-performance.html" timestamp="1506006649518" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
@@ -226,17 +224,31 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/config.js" timestamp="1506011501067">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/directives/review.js" timestamp="1506007083837" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/data/main.js" timestamp="1506011479971">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/controller/IndexController.java" timestamp="1501691941819">
         <mark key="[" line="85" column="125" />
         <mark key="]" line="85" column="125" />
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="125" />
+      </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/business-intelligence-portal.js" timestamp="1506010768224">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/Dockerfile" timestamp="1498164485697">
         <mark key="[" line="11" column="19" />
@@ -250,12 +262,12 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506008972055">
+      <file name="/sub-report-utils.js" timestamp="1506011289202" />
+      <file name="/Dummy.txt" timestamp="1506011507416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/compliance/templates/compliance-summary-left.html" timestamp="1506007034289" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498244277596">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -309,7 +321,7 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1502398746368">
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1506011401127">
         <mark key="]" line="144" column="13" />
         <mark key="." line="144" column="13" />
         <mark key="^" line="144" column="13" />
@@ -346,6 +358,12 @@
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="19" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/common/sub-report-utils.js" timestamp="1506010809617">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -353,37 +371,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
+        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdjb21wbGlhbmNlJywgICAgICAgbG9jYXRpb246ICdqYXZhc2NyaXB0cy9jb21wbGlhbmNlJyB9LAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdjb21wbGlhbmNlJywgICAgICAgbG9jYXRpb246ICdqYXZhc2NyaXB0cy9jb21wbGlhbmNlJyB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdkYXRhL2Rhby9tZWRpYS1hY3Rpdml0eS1kYW8nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5hbHl0aWNzLXVpIGlzIG5vdyBpdHMgb3duIG1pY3JvLXVpIGFuZAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICdkYXRhL2Rhby9tZWRpYS1hY3Rpdml0eS1kYW8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRpbmcgdGhlIHZlcnNpb24gb2YgYW5hbHl0aWNzLXVpIG5vdyByZXF1aXJlcyBvbmx5IGNoYW5naW5nIHRoZSB2YXJpYWJsZSBpbiBhbmFseXRpY3Muc2NhbGEuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAnZGF0YS9kYW8vY29tcGxpYW5jZS1kYW8nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QW5hbHl0aWNzIFVJIGlzIG5vIGxvbmdlciBwdWxsZWQgaW4gdmlhIGJvd2VyLCBpdCdzIHNlcnZlZCBmcm9tIGEgQ0ROCg==</text>
+        <text encoding="base64">ICAgICAgICAnZGF0YS9kYW8vY29tcGxpYW5jZS1kYW8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHRoOmJsb2NrIHRoOnV0ZXh0PSIke25hdi5odG1sfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbXBsaWFuY2UnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0aDp1dGV4dD0iJHtuYXYuY3NzfSI+PC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICdjb21wbGlhbmNlJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYUZlYXR1cmVzLmNvbnRhaW5zKCJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>compliance</text>
       </register>
     </registers>
     <search>
