@@ -130,6 +130,11 @@
         <mark key="." line="53" column="3" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/compliance/directives/compliance-summary.js" timestamp="1506006444190" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499472703349">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="19" column="0" />
@@ -350,8 +355,8 @@
       <register name="1" type="2">
         <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,7 +383,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYUZlYXR1cmVzLmNvbnRhaW5zKCJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Analytics</text>
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
