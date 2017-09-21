@@ -185,6 +185,12 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/Dockerfile" timestamp="1506018897672">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1498750387005">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -262,7 +268,6 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/sub-report-utils.js" timestamp="1506011289202" />
       <file name="/Dummy.txt" timestamp="1506011507416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -373,8 +378,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdjb21wbGlhbmNlJywgICAgICAgbG9jYXRpb246ICdqYXZhc2NyaXB0cy9jb21wbGlhbmNlJyB9LAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7IG5hbWU6ICdjb21wbGlhbmNlJywgICAgICAgbG9jYXRpb246ICdqYXZhc2NyaXB0cy9jb21wbGlhbmNlJyB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>runconfig</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgICdkYXRhL2Rhby9tZWRpYS1hY3Rpdml0eS1kYW8nLAo=</text>
@@ -401,7 +406,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>compliance</text>
+        <text>runconfig</text>
       </register>
     </registers>
     <search>
