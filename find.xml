@@ -29,11 +29,11 @@
       <mask>*Controller.jav</mask>
       <mask>*</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -21,6 +21,12 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/main.js" timestamp="1506007151812">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/activity_main.xml" timestamp="1499493080202">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -48,6 +54,9 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/what.txt" timestamp="1506006418637">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
@@ -120,6 +129,7 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/compliance/directives/compliance-summary.js" timestamp="1506006444190" />
       <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499472703349">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="19" column="0" />
@@ -153,6 +163,12 @@
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/directives/compliance-summary.js" timestamp="1506007222140">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="2" column="77" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
@@ -189,6 +205,7 @@
         <mark key="^" line="93" column="17" />
         <mark key="." line="93" column="17" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/templates/review-performance.html" timestamp="1506006649518" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
@@ -209,6 +226,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/directives/review.js" timestamp="1506007083837" />
       <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/controller/IndexController.java" timestamp="1501691941819">
         <mark key="[" line="85" column="125" />
         <mark key="]" line="85" column="125" />
@@ -227,9 +245,12 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505143607868">
+      <file name="/Dummy.txt" timestamp="1506006977750">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/compliance/templates/compliance-summary-left.html" timestamp="1506007034289" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/communication/controller/ContactsImportController.scala" timestamp="1498244277596">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -314,6 +335,12 @@
       <file name="/fragment.java" timestamp="1501691697615">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/README.md" timestamp="1506007779286">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="6" column="63" />
+        <mark key="^" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -324,7 +351,7 @@
         <text encoding="base64">PHRoOmJsb2NrIHRoOnV0ZXh0PSIke25hdi5odG1sfSIvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>reducer</text>
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIDxzdHlsZSB0aDp1dGV4dD0iJHtuYXYuY3NzfSI+PC9zdHlsZT4K</text>
@@ -353,7 +380,7 @@
         <text encoding="base64">ICAgICogTmFtZSBvZiB0aGUgbWFpbnRhaW5lciAK</text>
       </register>
       <register name="-" type="4">
-        <text>reducer</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
