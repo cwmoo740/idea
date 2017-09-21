@@ -245,7 +245,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506006977750">
+      <file name="/Dummy.txt" timestamp="1506008972055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -335,11 +335,11 @@
       <file name="/fragment.java" timestamp="1501691697615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/README.md" timestamp="1506007779286">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="6" column="63" />
-        <mark key="^" line="6" column="63" />
-        <mark key="." line="6" column="63" />
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/README.md" timestamp="1506008444567">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
     </filemarks>
     <jumps />
@@ -348,39 +348,37 @@
         <text encoding="base64">CiAgICBmdW5jdGlvbiBpc0ZtYShvd25lcklkKSB7CiAgICAgICAgcmV0dXJuIG93bmVySWQuc3RhcnRzV2l0aChmbWFQcmVmaXgpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHRoOmJsb2NrIHRoOnV0ZXh0PSIke25hdi5odG1sfSIvPgo=</text>
+        <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjI0Egbm90ZSBhYm91dCBwdWxsaW5nIGluIG5ldyB2ZXJzaW9ucyBvZiBhbmFseXRpY3MtdWkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSB0aDp1dGV4dD0iJHtuYXYuY3NzfSI+PC9zdHlsZT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYUZlYXR1cmVzLmNvbnRhaW5zKCJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIsCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-                'fma.centermark.view-live-roi-dashboard': JSON.parse([[${fma.centermark.view-live-roi-dashboard}]])
-            }</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YW5hbHl0aWNzLXVpIGlzIG5vdyBpdHMgb3duIG1pY3JvLXVpIGFuZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VXBkYXRpbmcgdGhlIHZlcnNpb24gb2YgYW5hbHl0aWNzLXVpIG5vdyByZXF1aXJlcyBvbmx5IGNoYW5naW5nIHRoZSB2YXJpYWJsZSBpbiBhbmFseXRpY3Muc2NhbGEuaHRtbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QW5hbHl0aWNzIFVJIGlzIG5vIGxvbmdlciBwdWxsZWQgaW4gdmlhIGJvd2VyLCBpdCdzIHNlcnZlZCBmcm9tIGEgQ0ROCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PHRoOmJsb2NrIHRoOnV0ZXh0PSIke25hdi5odG1sfSIvPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZSB0aDp1dGV4dD0iJHtuYXYuY3NzfSI+PC9zdHlsZT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIEdlbmVyYWwK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogTmFtZSBvZiB0aGUgbWFpbnRhaW5lciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYUZlYXR1cmVzLmNvbnRhaW5zKCJmbWEuY2VudGVybWFyay52aWV3LWxpdmUtcm9pLWRhc2hib2FyZCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Analytics</text>
       </register>
     </registers>
     <search>
