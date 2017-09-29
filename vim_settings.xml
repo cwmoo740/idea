@@ -23,9 +23,9 @@
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/main.js" timestamp="1506007151812">
         <mark key="[" line="13" column="35" />
-        <mark key="]" line="14" column="46" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="14" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/activity_main.xml" timestamp="1499493080202">
         <mark key="[" line="3" column="0" />
@@ -123,6 +123,7 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/angular/angular.js" timestamp="1506709702844" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -206,6 +207,7 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/main.js" timestamp="1506709610916" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
