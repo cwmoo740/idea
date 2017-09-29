@@ -73,7 +73,6 @@
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/package.json" timestamp="1506099021240" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -91,7 +90,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/features/constants.ts" timestamp="1506099678948" />
       <file name="$USER_HOME$/src/java/pacman/frontend/server/index.html" timestamp="1497463094116">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -276,9 +274,6 @@
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
-        <mark key="]" line="19" column="95" />
-        <mark key="." line="19" column="95" />
-        <mark key="^" line="19" column="95" />
       </file>
       <file name="$USER_HOME$/src/markdown/aeg-docs/platform-requirements/requirements.md" timestamp="1503672343319">
         <mark key="[" line="67" column="76" />
@@ -333,14 +328,12 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/pages/dashboard-page.tsx" timestamp="1506099474678" />
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/res/layout/content_main.xml" timestamp="1499490841428">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="45" />
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/controller/PassthroughController.java" timestamp="1506099052042" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/frontend/src/index.tsx" timestamp="1497899342422">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
