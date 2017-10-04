@@ -49,26 +49,18 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/config/webpack.dev.js" timestamp="1501614802030">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/lists-ui/src/services/email-marketing.js" timestamp="1506710964967" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/controller/IndexController.java" timestamp="1497899959026">
         <mark key="[" line="75" column="51" />
         <mark key="]" line="75" column="51" />
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/yo-ui-feature-service/dist/yo-ui-feature-service.js" timestamp="1506711125813" />
       <file name="$USER_HOME$/src/java/cardshark/frontend/package.json" timestamp="1501597912328">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="44" column="24" />
@@ -103,12 +95,6 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/frontend/src/components/welcome/build-info.jsx" timestamp="1501614936655">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-      </file>
       <file name="$USER_HOME$/src/java/pacman/frontend/src/components/welcome/highlyComplexForm.jsx" timestamp="1497463245299">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -125,7 +111,6 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/vendor/angular/angular.js" timestamp="1506709702844" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -138,7 +123,7 @@
         <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/README.md" timestamp="1501614866530">
-        <mark key="[" line="70" column="36" />
+        <mark key="[" line="69" column="36" />
         <mark key="]" line="69" column="73" />
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
@@ -209,7 +194,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/main.js" timestamp="1506710420091" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
