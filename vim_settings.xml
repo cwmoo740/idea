@@ -211,6 +211,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/template/config.py" timestamp="1507141742437">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/src/java/ybn-transformers/YbnDataTransformerTestUtils/src/test/java/com/yodle/data/transformer/spring/integration/TestAccountOrchestratorIntegrationTest.java" timestamp="1497461363350">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -355,7 +361,7 @@
         <text encoding="base64">ICAgICAgICBmbWFGZWF0dXJlcy5hZGQoImZtYS5jZW50ZXJtYXJrLnZpZXctbGl2ZS1yb2ktZGFzaGJvYXJkIik7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>python</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIFJPSSgiUk9JIFN1bW1hcnkiLCAicmV2aWV3cyIsIFNldHMubmV3SGFzaFNldCgpKTsKCg==</text>
@@ -382,7 +388,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2NvbXBsaWFuY2UnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>python</text>
       </register>
     </registers>
     <search>
