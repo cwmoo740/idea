@@ -179,12 +179,6 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/Dockerfile" timestamp="1506022516882">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1498750387005">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -296,7 +290,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/java/worq/WorqTest/src/testCase/java/com/yodle/qa/tests/worq/WorqQueueTest.java" timestamp="1507831712606" />
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
       </file>
