@@ -67,6 +67,7 @@
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/core/actions/network-monitoring/active-monitor-actions.ts" timestamp="1508437031846" />
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -290,6 +291,12 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/package.json" timestamp="1508437099401">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
       </file>
@@ -390,8 +397,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>57</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
@@ -418,7 +425,7 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getWrappedLogger</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
