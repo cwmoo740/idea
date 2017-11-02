@@ -194,15 +194,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/components/visualization/visualization-types.js" timestamp="1509638140759" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1498750387005">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/src/main/java/com/yodle/service/centermarkreportingui/servicewrapper/NavigationRendererServiceWrapper.java" timestamp="1501692549304">
-        <mark key="]" line="31" column="36" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/src/java/yodleexternalapi/src/main/java/com/yodle/service/yodleexternalapi/config/AuthenticationConfig.java" timestamp="1497464773549">
         <mark key="[" line="160" column="5" />
@@ -355,12 +351,6 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/java/lead-transport-authority-integration-template/readme.md" timestamp="1509560979011" />
-      <file name="$USER_HOME$/src/java/business-intelligence-portal/conf/routes" timestamp="1506011401127">
-        <mark key="]" line="144" column="13" />
-        <mark key="." line="144" column="13" />
-        <mark key="^" line="144" column="13" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/app/reducer/features.ts" timestamp="1505250433800">
         <mark key="[" line="2" column="59" />
