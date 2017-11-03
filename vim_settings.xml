@@ -76,6 +76,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/docs-server/.gitignore" timestamp="1509735133101">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -149,6 +154,12 @@
         <mark key="^" line="123" column="25" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/src/java/docs-server/README.md" timestamp="1509735185771">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
         <mark key="]" line="40" column="48" />
@@ -194,7 +205,6 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/src/components/visualization/visualization-types.js" timestamp="1509639134110" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/resources/templates/index.html" timestamp="1498750387005">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -400,37 +410,37 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9jcwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(this looks difficult - may require a plugin).</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>57</text>
+        <text>(this looks difficult - may require a plugin).</text>
       </register>
     </registers>
     <search>
