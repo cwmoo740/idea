@@ -52,6 +52,7 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/ElasticClientFactory.java" timestamp="1510076727848" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
@@ -120,7 +121,7 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/media/CentermarkMediaCampaignTableTests.java" timestamp="1510073599257" />
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/media/CentermarkMediaCampaignTableTests.java" timestamp="1510077357774" />
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
@@ -183,6 +184,12 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/AdCampaignTestHelper.java" timestamp="1510075968533">
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="45" column="9" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="45" column="9" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/clients/selectors.ts" timestamp="1505250139344">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="45" />
@@ -193,6 +200,12 @@
         <mark key="]" line="2" column="61" />
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946c6054-b767-46bb-9e99-0725e1ec7980/console.sql" timestamp="1510075600751">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/Authentication.scala" timestamp="1498244174550">
         <mark key="[" line="23" column="0" />
@@ -233,6 +246,9 @@
         <mark key="]" line="25" column="10" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/345cfaf6-548c-4e35-8a1b-645ba84653d6/console.sql" timestamp="1510076174828">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/activity/MainActivity.kt" timestamp="1499490933583">
         <mark key="[" line="12" column="0" />
@@ -296,7 +312,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510073130309">
+      <file name="/Dummy.txt" timestamp="1510076882546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -312,6 +328,7 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/elasticreporting/orchestrator/ElasticReportingOrchestrator.scala" timestamp="1510077342945" />
       <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/package.json" timestamp="1508437099401">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="28" />
@@ -415,26 +432,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZG9jcwo=</text>
+      <register name="1" type="4">
+        <text>catch (FMAException fmae) {
+            throw new RuntimeException(fmae);
+        }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(this looks difficult - may require a plugin).</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5ORVIgSk9JTiBjb250cm9sLmNsaWVudF9mZWF0dXJlIEFTIGNsX2ZlYXQgT04gKGZlYXR1cmVfaWQgPSBjbF9mZWF0LmZlYXR1cmVfaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ZG9jcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
@@ -446,7 +465,7 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(this looks difficult - may require a plugin).</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
