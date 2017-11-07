@@ -312,7 +312,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510076882546">
+      <file name="/Dummy.txt" timestamp="1510080055791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -329,6 +329,9 @@
         <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/elasticreporting/orchestrator/ElasticReportingOrchestrator.scala" timestamp="1510077342945" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/785f7941-7d7f-4d96-a4e4-cd5fca54a3b5/console.sql" timestamp="1510079888844">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui/frontend/package.json" timestamp="1508437099401">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="28" />
@@ -432,37 +435,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      </register>
+      <register name="2" type="4">
         <text>catch (FMAException fmae) {
             throw new RuntimeException(fmae);
         }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">SU5ORVIgSk9JTiBjb250cm9sLmNsaWVudF9mZWF0dXJlIEFTIGNsX2ZlYXQgT04gKGZlYXR1cmVfaWQgPSBjbF9mZWF0LmZlYXR1cmVfaWQpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZG9jcwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
