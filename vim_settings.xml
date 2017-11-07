@@ -21,6 +21,7 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/controllers/CampaignsAjaxController.scala" timestamp="1510082698786" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/main.js" timestamp="1506007151812">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="46" />
@@ -52,7 +53,6 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/ElasticClientFactory.java" timestamp="1510076727848" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
@@ -76,11 +76,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/java/docs-server/.gitignore" timestamp="1509735133101">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/resources/templates/index.html" timestamp="1497892066443">
         <mark key="[" line="113" column="0" />
@@ -121,7 +116,6 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/media/CentermarkMediaCampaignTableTests.java" timestamp="1510080412072" />
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
@@ -156,10 +150,11 @@
         <mark key="^" line="123" column="25" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/src/java/docs-server/README.md" timestamp="1509735185771">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="$USER_HOME$/src/java/docs-server/README.md" timestamp="1510084405061">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/servicewrapper/NavRendererServiceWrapper.java" timestamp="1499297015304">
         <mark key="[" line="40" column="46" />
@@ -240,7 +235,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/main/java/com/yodle/qa/page/centermark/media/CentermarkMediaPage.java" timestamp="1510073173616" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/app/controllers/PassthroughController.scala" timestamp="1498234667828">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="25" column="10" />
@@ -328,7 +322,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/elasticreporting/orchestrator/ElasticReportingOrchestrator.scala" timestamp="1510077342945" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/785f7941-7d7f-4d96-a4e4-cd5fca54a3b5/console.sql" timestamp="1510079888844">
         <mark key="[" line="0" column="0" />
       </file>
@@ -347,7 +340,6 @@
         <mark key="." line="68" column="8" />
         <mark key="^" line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/media/CentermarkMediaTests.java" timestamp="1510072237098" />
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/fragment/MainActivityFragment.kt" timestamp="1499493702310">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="18" />
@@ -428,7 +420,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle.qa/yodle-test-results-java/1.5.0-70/c4623de044ed64a95a95e21b172de4c78e804909/yodle-test-results-java-1.5.0-70-sources.jar!/com/yodle/qa/testresults/service/TestResultService.java" timestamp="1510072683171" />
     </filemarks>
     <jumps />
     <registers>
@@ -438,8 +429,8 @@
       <register name="1" type="2">
         <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG9zdGdyZXMg</text>
       </register>
       <register name="2" type="4">
         <text>catch (FMAException fmae) {
@@ -468,7 +459,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cG9zdGdyZXMg</text>
       </register>
     </registers>
     <search>
