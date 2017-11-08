@@ -21,7 +21,6 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/controllers/CampaignsAjaxController.scala" timestamp="1510082698786" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/main.js" timestamp="1506007151812">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="46" />
@@ -179,11 +178,11 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/AdCampaignTestHelper.java" timestamp="1510075968533">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="45" column="9" />
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/AdCampaignTestHelper.java" timestamp="1510169378600">
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+        <mark key="^" line="83" column="25" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/clients/selectors.ts" timestamp="1505250139344">
         <mark key="[" line="0" column="45" />
@@ -306,7 +305,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510080055791">
+      <file name="/Dummy.txt" timestamp="1510166842809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -426,40 +425,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgY3JlYXRlZERvY3VtZW50SWRzLnB1dCgKICAgICAgICAgICAgICAgIElOREVYX1BST1ZJREVSUkVQT1JULAogICAgICAgICAgICAgICAgZWxhc3RpY1Rlc3RIZWxwZXIuaW5zZXJ0VGVzdERvY3VtZW50cyhJTkRFWF9QUk9WSURFUlJFUE9SVCwgSW1tdXRhYmxlTGlzdC5vZihhZERvY3VtZW50KSkKICAgICAgICApOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cG9zdGdyZXMg</text>
+        <text>put</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkRG9jdW1lbnRJZHMucHV0KElOREVYX0xFQUQsIGxlYWRJZHMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsZWFkSWRzLmFkZEFsbChleGlzdGluZ0xlYWRJZHMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBleGlzdGluZ0xlYWRJZHMgPSBjcmVhdGVkRG9jdW1lbnRJZHMuZ2V0T3JEZWZhdWx0KElOREVYX0xFQUQsIG5ldyBIYXNoU2V0PD4oKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlZERvY3VtZW50SWRzLnB1dChJTkRFWF9MRUFELCBlbGFzdGljVGVzdEhlbHBlci5pbnNlcnRUZXN0RG9jdW1lbnRzKElOREVYX0xFQUQsIEltbXV0YWJsZUxpc3Qub2YobGVhZERvY3VtZW50KSkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      </register>
+      <register name="7" type="4">
         <text>catch (FMAException fmae) {
             throw new RuntimeException(fmae);
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">SU5ORVIgSk9JTiBjb250cm9sLmNsaWVudF9mZWF0dXJlIEFTIGNsX2ZlYXQgT04gKGZlYXR1cmVfaWQgPSBjbF9mZWF0LmZlYXR1cmVfaWQpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ZG9jcwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b2RsZS5jb3JlLnV0aWwuRm9ybWF0dGluZ0xvZ2dlcjsK</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zdGdyZXMg</text>
+        <text>put</text>
       </register>
     </registers>
     <search>
