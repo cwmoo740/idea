@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/reviews/CentermarkRecentReviewsTest.java" timestamp="1510337649484" />
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/reviews/CentermarkRecentReviewsTest.java" timestamp="1510605169526" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1499296943375">
         <mark key="[" line="61" column="53" />
         <mark key="]" line="61" column="53" />
@@ -22,7 +22,6 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/framework/service/CorporateRelationshipServiceWrapper.java" timestamp="1510338301372" />
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/javascripts/reviews/main.js" timestamp="1506007151812">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="46" />
@@ -37,7 +36,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/framework/metadata/FranchiseMasterAccountMetaData.java" timestamp="1510338501967" />
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/components/clients-modal/__tests__/clients-groups-modal-connected-container.test.tsx" timestamp="1503334693926">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -55,6 +53,7 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/app/controllers/ReviewsAjaxController.scala" timestamp="1510604612157" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
@@ -118,13 +117,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/framework/db/HBaseDatasource.java" timestamp="1510335330797" />
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase/0.94.15-cdh4.6.0/8953c7a74067e3cd6bfe58597e0a483c4921a18a/hbase-0.94.15-cdh4.6.0-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java" timestamp="1510335966541" />
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1509128714881">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="20" />
@@ -136,6 +133,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/main/java/com/yodle/qa/page/centermark/reviews/CentermarkRecentReviewsPage.java" timestamp="1510604297209" />
       <file name="$USER_HOME$/src/kotlin/kenya/build.gradle" timestamp="1499472703349">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="19" column="0" />
@@ -233,6 +231,7 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/main/java/com/yodle/qa/framework/utils/ContactsHelper.java" timestamp="1510604161006" />
       <file name="$USER_HOME$/src/java/worq/src/main/java/com/yodle/worq/processing/TimedWorkUnit.java" timestamp="1507831743814">
         <mark key="[" line="17" column="87" />
         <mark key="]" line="2" column="0" />
@@ -292,7 +291,6 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/runner/configuration/TestConfiguration.java" timestamp="1510336501541" />
       <file name="$USER_HOME$/src/java/worq/src/main/java/com/yodle/worq/dao/mongo/MongoWorkQueueDao.java" timestamp="1507831146335">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -311,7 +309,10 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510330309056">
+      <file name="/dummy.sql" timestamp="1510604847156">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510604242083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -327,7 +328,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/framework/utils/hbase/HBaseUtils.java" timestamp="1510335576615" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/785f7941-7d7f-4d96-a4e4-cd5fca54a3b5/console.sql" timestamp="1510079888844">
         <mark key="[" line="0" column="0" />
       </file>
@@ -337,6 +337,7 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/tests/national/biportal/communication/CentermarkListsTests.java" timestamp="1510603790743" />
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
       </file>
@@ -426,13 +427,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle.qa/yodle-test-results-java/1.5.0-70/c4623de044ed64a95a95e21b172de4c78e804909/yodle-test-results-java-1.5.0-70-sources.jar!/com/yodle/qa/testresults/service/TestResultService.java" timestamp="1510330184846" />
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/README.md" timestamp="1510337929889">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-      </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/README.md" timestamp="1510603655019" />
     </filemarks>
     <jumps />
     <registers>
