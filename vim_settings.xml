@@ -115,18 +115,15 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/framework/db/HBaseDatasource.java" timestamp="1510762566096" />
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase/0.94.15-cdh4.6.0/8953c7a74067e3cd6bfe58597e0a483c4921a18a/hbase-0.94.15-cdh4.6.0-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java" timestamp="1510762420885" />
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1510760593650">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511904205471">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
         <mark key="[" line="0" column="0" />
@@ -289,7 +286,6 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yodle/kirby-framework/59.1.1-1128/ae2fc8784d2eced60f305161777a7fe060cda9f8/kirby-framework-59.1.1-1128-sources.jar!/com/yodle/qa/kirbyframework/runner/configuration/TestConfiguration.java" timestamp="1510762583070" />
       <file name="$USER_HOME$/src/java/worq/src/main/java/com/yodle/worq/dao/mongo/MongoWorkQueueDao.java" timestamp="1507831146335">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -425,46 +421,50 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/README.md" timestamp="1511904498900">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgY3JlYXRlZERvY3VtZW50SWRzLnB1dCgKICAgICAgICAgICAgICAgIElOREVYX1BST1ZJREVSUkVQT1JULAogICAgICAgICAgICAgICAgZWxhc3RpY1Rlc3RIZWxwZXIuaW5zZXJ0VGVzdERvY3VtZW50cyhJTkRFWF9QUk9WSURFUlJFUE9SVCwgSW1tdXRhYmxlTGlzdC5vZihhZERvY3VtZW50KSkKICAgICAgICApOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Rmlyc3QsIGBwbGF5IHJ1bmAgaW4gdGhlIG1haW4gcHJvamVjdCwgYW5kIGBqYXZhIC1qYXIgc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUtMi41My4xLmphcmAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VGhlc2Ug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Rmlyc3QsIGBwbGF5IHJ1bmAgaW4gdGhlIG1haW4gcHJvamVjdCwgYW5kIGBqYXZhIC1qYXIgc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUtMi41My4xLmphcmAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkRG9jdW1lbnRJZHMucHV0KElOREVYX0xFQUQsIGxlYWRJZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZWFkSWRzLmFkZEFsbChleGlzdGluZ0xlYWRJZHMpOwo=</text>
+        <text encoding="base64">IyMgUnVubmluZyB0ZXN0cwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBleGlzdGluZ0xlYWRJZHMgPSBjcmVhdGVkRG9jdW1lbnRJZHMuZ2V0T3JEZWZhdWx0KElOREVYX0xFQUQsIG5ldyBIYXNoU2V0PD4oKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CjEuIFJ1biB0aGUgYXBwbGljYXRpb24gYXMgYWJvdmUKCjIuIGBjZCBCdXNpbmVzc0ludGVsbGlnZW5jZVBvcnRhbFRlc3RgCgozLiBgLi9ncmFkbGV3IHJ1blJlZ3Jlc3Npb25gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlZERvY3VtZW50SWRzLnB1dChJTkRFWF9MRUFELCBlbGFzdGljVGVzdEhlbHBlci5pbnNlcnRUZXN0RG9jdW1lbnRzKElOREVYX0xFQUQsIEltbXV0YWJsZUxpc3Qub2YobGVhZERvY3VtZW50KSkpOwo=</text>
+        <text encoding="base64">MS4gRG93bmxvYWQgW3BsYXkgMi4yLjZdKGh0dHBzOi8vZG93bmxvYWRzLnR5cGVzYWZlLmNvbS9wbGF5LzIuMi42L3BsYXktMi4yLjYuemlwKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">amRiYzpwb3N0Z3Jlc3FsOi8veW9kbGVjb3JlLXJlcG9ydGRiLmNvcnAueW9kbGUuY29tL25hdHBhbHMK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgY3JlYXRlZERvY3VtZW50SWRzLnB1dCgKICAgICAgICAgICAgICAgIElOREVYX1BST1ZJREVSUkVQT1JULAogICAgICAgICAgICAgICAgZWxhc3RpY1Rlc3RIZWxwZXIuaW5zZXJ0VGVzdERvY3VtZW50cyhJTkRFWF9QUk9WSURFUlJFUE9SVCwgSW1tdXRhYmxlTGlzdC5vZihhZERvY3VtZW50KSkKICAgICAgICApOw==</text>
       </register>
-      <register name="7" type="4">
-        <text>catch (FMAException fmae) {
-            throw new RuntimeException(fmae);
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkRG9jdW1lbnRJZHMucHV0KElOREVYX0xFQUQsIGxlYWRJZHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SU5ORVIgSk9JTiBjb250cm9sLmNsaWVudF9mZWF0dXJlIEFTIGNsX2ZlYXQgT04gKGZlYXR1cmVfaWQgPSBjbF9mZWF0LmZlYXR1cmVfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWFkSWRzLmFkZEFsbChleGlzdGluZ0xlYWRJZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9jcwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBleGlzdGluZ0xlYWRJZHMgPSBjcmVhdGVkRG9jdW1lbnRJZHMuZ2V0T3JEZWZhdWx0KElOREVYX0xFQUQsIG5ldyBIYXNoU2V0PD4oKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlc2Ug</text>
+        <text encoding="base64">b3RoZXIg</text>
       </register>
     </registers>
     <search>
