@@ -120,10 +120,11 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511905355638">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511915029689">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/business-intelligence-portal/public/templates/compliance/compliance-media.html" timestamp="1506010336058">
         <mark key="[" line="0" column="0" />
@@ -436,35 +437,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgRW52aXJvbm1lbnQK</text>
+        <text encoding="base64">Mi4gVW56aXAgaXQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyByZXF1aXJlcyB0aGUgc2V0dXAgdHkK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpUaGlzIGFsc28gcmVxdWlyZXMgYSBzcGVjaWZpYyB2ZXJzaW9uIG9mIFtmaXJlZm94XShodHRwczovL2Z0cC5tb3ppbGxhLm9yZy9wdWIvZmlyZWZveC9yZWxlYXNlcy8zOC4wZXNyLyksIAphbmQgYSBzY3JpcHQgb3Igc3ltbGluayB0byBzdGFydCBpdCBhdCAvd29ya3NwYWNlL2Jpbi9maXJlZm94LXNlbGVuaXVtLg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Rmlyc3QsIGBwbGF5IHJ1bmAgaW4gdGhlIG1haW4gcHJvamVjdCwgYW5kIGBqYXZhIC1qYXIgc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUtMi41My4xLmphcmAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyMgUnVubmluZyB0ZXN0cwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IyMgRW52aXJvbm1lbnQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CjEuIFJ1biB0aGUgYXBwbGljYXRpb24gYXMgYWJvdmUKCjIuIGBjZCBCdXNpbmVzc0ludGVsbGlnZW5jZVBvcnRhbFRlc3RgCgozLiBgLi9ncmFkbGV3IHJ1blJlZ3Jlc3Npb25gCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">VGhpcyByZXF1aXJlcyB0aGUgc2V0dXAgdHkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgpUaGlzIGFsc28gcmVxdWlyZXMgYSBzcGVjaWZpYyB2ZXJzaW9uIG9mIFtmaXJlZm94XShodHRwczovL2Z0cC5tb3ppbGxhLm9yZy9wdWIvZmlyZWZveC9yZWxlYXNlcy8zOC4wZXNyLyksIAphbmQgYSBzY3JpcHQgb3Igc3ltbGluayB0byBzdGFydCBpdCBhdCAvd29ya3NwYWNlL2Jpbi9maXJlZm94LXNlbGVuaXVtLg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Rmlyc3QsIGBwbGF5IHJ1bmAgaW4gdGhlIG1haW4gcHJvamVjdCwgYW5kIGBqYXZhIC1qYXIgc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUtMi41My4xLmphcmAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MS4gRG93bmxvYWQgW3BsYXkgMi4yLjZdKGh0dHBzOi8vZG93bmxvYWRzLnR5cGVzYWZlLmNvbS9wbGF5LzIuMi42L3BsYXktMi4yLjYuemlwKQo=</text>
+        <text encoding="base64">IyMgUnVubmluZyB0ZXN0cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>in the test project</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
