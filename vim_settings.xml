@@ -121,22 +121,22 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512419190259">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512425314294">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512424206984">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="7" column="46" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512425144789">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511915029689">
         <mark key="[" line="4" column="0" />
@@ -271,6 +271,12 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512425291201">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/template/config.py" timestamp="1507141742437">
         <mark key="[" line="0" column="11" />
@@ -457,11 +463,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">XyA=</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -470,34 +476,34 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
+        <text encoding="base64">bW9kIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
+        <text encoding="base64">ICAgIGNhcHRjaGE6Om1haW4oKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hdGNoIGFyZ3Mgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>for num in seq {
         println!(&quot;{}&quot;, num)
     }
     0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIGNhcHRjaGE7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIHN0ZDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Mi4gVW56aXAgaXQgCg==</text>
+        <text encoding="base64">dXNlIGNhcHRjaGE7Cg==</text>
       </register>
     </registers>
     <search>
