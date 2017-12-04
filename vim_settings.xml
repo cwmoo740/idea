@@ -132,11 +132,11 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512419666805">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512424206984">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511915029689">
         <mark key="[" line="4" column="0" />
@@ -202,11 +202,11 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/captcha.rs" timestamp="1512419273000">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/captcha.rs" timestamp="1512423731898">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/frontend/src/domain/clients/selectors.ts" timestamp="1505250139344">
         <mark key="[" line="0" column="45" />
@@ -329,7 +329,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512417764181">
+      <file name="/Dummy.txt" timestamp="1512423052687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -458,10 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>::main</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>::main</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -470,31 +470,34 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNhcHRjaGE7Cg==</text>
+        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIHN0ZDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>for num in seq {
+        println!(&quot;{}&quot;, num)
+    }
+    0</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gVW56aXAgaXQgCg==</text>
+        <text encoding="base64">dXNlIGNhcHRjaGE7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgRW52aXJvbm1lbnQK</text>
+        <text encoding="base64">dXNlIHN0ZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhpcyByZXF1aXJlcyB0aGUgc2V0dXAgdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpUaGlzIGFsc28gcmVxdWlyZXMgYSBzcGVjaWZpYyB2ZXJzaW9uIG9mIFtmaXJlZm94XShodHRwczovL2Z0cC5tb3ppbGxhLm9yZy9wdWIvZmlyZWZveC9yZWxlYXNlcy8zOC4wZXNyLyksIAphbmQgYSBzY3JpcHQgb3Igc3ltbGluayB0byBzdGFydCBpdCBhdCAvd29ya3NwYWNlL2Jpbi9maXJlZm94LXNlbGVuaXVtLg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Mi4gVW56aXAgaXQgCg==</text>
       </register>
     </registers>
     <search>
