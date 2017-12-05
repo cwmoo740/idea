@@ -121,11 +121,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512425314294">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512437233278">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
@@ -357,6 +357,12 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/src/rust/advent-of-code/.gitignore" timestamp="1512436970790">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
       </file>
@@ -464,7 +470,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bW9kIAo=</text>
+        <text encoding="base64">cHViIG1vZCBjaGVja3N1bTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">XyA=</text>
@@ -476,34 +482,34 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kIAo=</text>
+        <text encoding="base64">cHViIG1vZCBjaGVja3N1bTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhcHRjaGE6Om1haW4oKTsK</text>
+        <text encoding="base64">bW9kIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNhcHRjaGE6Om1haW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdGNoIGFyZ3Mgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
+        <text encoding="base64">ICAgIG1hdGNoIGFyZ3Mgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
+        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>for num in seq {
         println!(&quot;{}&quot;, num)
     }
     0</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIGNhcHRjaGE7Cg==</text>
       </register>
     </registers>
     <search>
