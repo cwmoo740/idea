@@ -202,7 +202,7 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/captcha.rs" timestamp="1512423731898">
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/captcha.rs" timestamp="1512437905150">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="33" />
@@ -272,11 +272,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512425291201">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512438239949">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/template/config.py" timestamp="1507141742437">
         <mark key="[" line="0" column="11" />
@@ -470,7 +470,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHViIG1vZCBjaGVja3N1bTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">XyA=</text>
@@ -482,34 +482,31 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHViIG1vZCBjaGVja3N1bTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAuZmlsdGVyX21hcCgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhcHRjaGE6Om1haW4oKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">bGluZXMKICAgICAgICAgICAgLmNoYXJzKCkKICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">cHViIG1vZCBjaGVja3N1bTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdGNoIGFyZ3Mgewo=</text>
+        <text encoding="base64">bW9kIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
+        <text encoding="base64">ICAgIGNhcHRjaGE6Om1haW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhcHRjaGE6Ogo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdGNoIGFyZ3Mgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>for num in seq {
-        println!(&quot;{}&quot;, num)
-    }
-    0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNraXBfY291bnQgPSAK</text>
       </register>
     </registers>
     <search>
