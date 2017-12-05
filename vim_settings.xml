@@ -272,11 +272,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512443919599">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512445763312">
+        <mark key="[" line="37" column="76" />
+        <mark key="]" line="41" column="76" />
+        <mark key="." line="41" column="76" />
+        <mark key="^" line="41" column="76" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/template/config.py" timestamp="1507141742437">
         <mark key="[" line="0" column="11" />
@@ -469,11 +469,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>done = true;</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -482,33 +482,40 @@
         <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6Y21wOjptYXg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBzaGVldDogVmVjPFZlYzx1c2l6ZT4+ID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGRvbmUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>match input {
-                
-            }</text>
+        <text>let formatted: String = sheet
+        .iter()
+        .map(|x| x.iter().fold(String::from(&quot;&quot;), |result, next| format!(&quot;{} {}&quot;, result, next)))
+        .fold(
+            String::from(&quot;&quot;),
+            |result, next| {
+                format!(&quot;{}\n{}&quot;, result, next)
+            }
+        );
+    println!(&quot;{}&quot;, formatted);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbGluZXM6IFN0cmluZyA9IHN0ZGluLmxvY2soKS5saW5lcygpLm5leHQoKS51bndyYXAoKS51bndyYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4hKCJ7fSIsIG5leHQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IC8vIHNwbGl0IGJ5IG5ld2xpbmVzIGZpcnN0IGFuZCB0aGVuIGJ5IHdoaXRlc3BhY2Ugb24gZWFjaCBsaW5lCiAgICBsaW5lcwogICAgICAgIC5zcGxpdCgiXG4iKQogICAgICAgIC5tYXAofHh8IHsKICAgICAgICAgICAgeAogICAgICAgICAgICAgICAgLnNwbGl0X3doaXRlc3BhY2UoKQogICAgICAgICAgICAgICAgLmZpbHRlcl9tYXAofHl8IG1hdGNoIHkucGFyc2U6Ojx1c2l6ZT4oKSB7CiAgICAgICAgICAgICAgICAgICAgT2soeikgPT4gU29tZSh6KSwKICAgICAgICAgICAgICAgICAgICBFcnIoZSkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBlcHJpbnRsbiEoImVycm9yOiB7fVxue30iLCB5LCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgTm9uZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuY29sbGVjdCgpCiAgICAgICAgfSkKICAgICAgICAuY29sbGVjdCgpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RkaW4gPSBpbzo6c3RkaW4oKTsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTm9uZSA9PiAK</text>
+        <text encoding="base64">ICAgIGxldCBzaGVldDogVmVjPFZlYzx1c2l6ZT4+ID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU29tZSh6KSA9PiB6LAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXV0IGRvbmUgPSBmYWxzZTsK</text>
       </register>
     </registers>
     <search>
