@@ -235,11 +235,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/spiral_memory.rs" timestamp="1512533772182">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="7" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/spiral_memory.rs" timestamp="1512537205482">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" timestamp="1511986000640">
         <mark key="'" line="10" column="23" />
@@ -475,44 +475,44 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvZmZzZXQ6IHt9Iiwgb2Zmc2V0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>distance</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW86OntzZWxmLCBCdWZSZWFkfTsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvZGRfcm9vdDoge30iLCBvZGRfcm9vdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZF90aGVuKHx4fCB4LnBhcnNlOjo8dXNpemU+KCkub2soKSkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvZmZzZXQ6IHt9Iiwgb2Zmc2V0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZChTb21lKGlucHV0KSkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJjeWNsZToge30iLCBjeWNsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm9rKCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJkaXN0YW5jZToge30iLCBkaXN0YW5jZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvZGRfcm9vdDoge30iLCBvZGRfcm9vdCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBPayhuKSA9PiBpbnB1dCwKICAgICAgICAgICAgRXJyID0+IE5vbmUKICAgICAgICB9Ow==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJvZGRfcm9vdDoge30iLCBvZGRfcm9vdCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bGV0IG11dCBpbnB1dCA9IFN0cmluZzo6bmV3KCk7CiAgICBtYXRjaCBzdGRpbi5yZWFkX2xpbmUoJm11dCBpbnB1dCkgewogICAgICAgIE9rKG4pID0+IGlucHV0CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBjbG9zZXN0X3Jvb3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZChPayhpbnB1dCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZChTb21lKGlucHV0LnRyaW0oKSkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIE9rKG4pID0+IFNvbWUoaW5wdXQudHJpbSgpKSwKICAgICAgICAgICAgRXJyKGUpID0+IHsKICAgICAgICAgICAgICAgIGVwcmludGxuISgie30iLCBlKTsKICAgICAgICAgICAgICAgIE5vbmUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0gewogICAgICAgIFNvbWUoeCkgPT4gewogICAgICAgICAgICBtYXRjaCB4LnBhcnNlOjo8dXNpemU+KCkgewogICAgICAgICAgICAgICAgT2soeikgPT4geiwKICAgICAgICAgICAgICAgIEVycih6KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXByaW50bG4hKCJ7fSIsIHopOwogICAgICAgICAgICAgICAgICAgIDUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBOb25lID0+IHsKICAgICAgICAgICAgcHJpbnRsbiEoIm5vbmUiKTsKICAgICAgICAgICAgNQogICAgICAgIH0KICAgIH07</text>
       </register>
     </registers>
     <search>
