@@ -121,8 +121,8 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512437233278">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/lib.rs" timestamp="1512521877297">
+        <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="0" />
@@ -132,11 +132,11 @@
         <mark key="]" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512511886528">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/README.md" timestamp="1511915029689">
         <mark key="[" line="4" column="0" />
@@ -235,6 +235,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/spiral_memory.rs" timestamp="1512533772182">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+      </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" timestamp="1511986000640">
         <mark key="'" line="10" column="23" />
       </file>
@@ -272,11 +278,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512448963496">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="$USER_HOME$/src/rust/advent-of-code/src/checksum.rs" timestamp="1512530549547">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="66" column="44" />
+        <mark key="." line="66" column="44" />
       </file>
       <file name="$USER_HOME$/src/java/gradle-spring-boot-react-ui/template/config.py" timestamp="1507141742437">
         <mark key="[" line="0" column="11" />
@@ -469,44 +475,44 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcS5maWx0ZXJfbWFwKHx4fCB4KTsK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFVklFV1MoIlJldmlld3MgU3VtbWFyeSIsICJyZXZpZXdzIiwgU2V0cy5uZXdIYXNoU2V0KCkpOwo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OntzZWxmLCBCdWZSZWFkfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcS5maWx0ZXJfbWFwKHx4fCB4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZF90aGVuKHx4fCB4LnBhcnNlOjo8dXNpemU+KCkub2soKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZChTb21lKGlucHV0KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9rKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9rKHgpIGlmIHggPT0gIiIgPT4gYnJlYWssCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBPayhuKSA9PiBpbnB1dCwKICAgICAgICAgICAgRXJyID0+IE5vbmUKICAgICAgICB9Ow==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">bGV0IG11dCBpbnB1dCA9IFN0cmluZzo6bmV3KCk7CiAgICBtYXRjaCBzdGRpbi5yZWFkX2xpbmUoJm11dCBpbnB1dCkgewogICAgICAgIE9rKG4pID0+IGlucHV0CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5wdXQgPT0gIiIgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxfc2hlZXQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
