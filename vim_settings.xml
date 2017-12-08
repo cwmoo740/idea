@@ -241,6 +241,12 @@
         <mark key="^" line="48" column="5" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/src/other/advent-of-code/.gitignore" timestamp="1512767281972">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" timestamp="1511986000640">
         <mark key="'" line="10" column="23" />
       </file>
