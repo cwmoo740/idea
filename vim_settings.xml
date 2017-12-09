@@ -133,11 +133,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/other/advent-of-code/src/spiral.rs" timestamp="1512846097989">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="53" column="43" />
-        <mark key="^" line="53" column="43" />
-        <mark key="." line="53" column="43" />
+      <file name="$USER_HOME$/src/other/advent-of-code/src/spiral.rs" timestamp="1512847247383">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
@@ -393,11 +393,10 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/src/other/advent-of-code/src/main.rs" timestamp="1512791970208">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/src/other/advent-of-code/src/main.rs" timestamp="1512847516613">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
@@ -511,11 +510,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vec![Action::Up, Action::Left, Action::Down, Action::Right]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>vec![Action::Up, Action::Left, Action::Down, Action::Right]</text>
+        <text>coords.1</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -524,31 +523,31 @@
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHMgPSAoKChjb29yZHMuMCBhcyBpc2l6ZSkgKyBjdXJyZW50X2FjdGlvbi4wKSBhcyB1c2l6ZSwgKGNvb3Jkcy4xICsgY3VycmVudF9hY3Rpb24uMSkgYXMgdXNpemUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bWF0Y2ggbmV4dF9hY3Rpb24gewogICAgICAgICAgICAgICAgQWN0aW9uOjpSaWdodCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xICsgMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OlVwID0+IChjb29yZHMuMCAtIDEsIGNvb3Jkcy4xKSwKICAgICAgICAgICAgICAgIEFjdGlvbjo6TGVmdCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xIC0gMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OkRvd24gPT4gKGNvb3Jkcy4wICsgMSwgY29vcmRzLjEpCiAgICAgICAgICAgIH07</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNwaXJhbDo6bWFpbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHMgPSAoKChjb29yZHMuMCBhcyBpc2l6ZSkgKyBjdXJyZW50X2FjdGlvbi4wKSBhcyB1c2l6ZSwgKGNvb3Jkcy4xICsgY3VycmVudF9hY3Rpb24uMSkgYXMgdXNpemUpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bGV0IGFjdGlvbnM6IFZlYzwoaXNpemUsIGlzaXplKT4gPSB2ZWMhWwogICAgICAgICgwLCAxKSwgLy8gcmlnaHQKICAgICAgICAoLTEsIDApLCAvLyB1cAogICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAoMSwgMCkgLy8gZG93bgogICAgXTs=</text>
+        <text encoding="base64">bWF0Y2ggbmV4dF9hY3Rpb24gewogICAgICAgICAgICAgICAgQWN0aW9uOjpSaWdodCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xICsgMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OlVwID0+IChjb29yZHMuMCAtIDEsIGNvb3Jkcy4xKSwKICAgICAgICAgICAgICAgIEFjdGlvbjo6TGVmdCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xIC0gMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OkRvd24gPT4gKGNvb3Jkcy4wICsgMSwgY29vcmRzLjEpCiAgICAgICAgICAgIH07</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIGNvb3Jkcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bWF0Y2ggYWN0aW9uc19pdGVyLm5leHQoKSB7CiAgICAgICAgICAgICAgICAgICAgU29tZSh4KSA9PiB4LAogICAgICAgICAgICAgICAgICAgIE5vbmUgPT4gcGFuaWMhKCkKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">bGV0IGFjdGlvbnM6IFZlYzwoaXNpemUsIGlzaXplKT4gPSB2ZWMhWwogICAgICAgICgwLCAxKSwgLy8gcmlnaHQKICAgICAgICAoLTEsIDApLCAvLyB1cAogICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAoMSwgMCkgLy8gZG93bgogICAgXTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZ3JpZFsoY3VdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIGNvb3Jkcyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHsKICAgICAgICBTb21lKHgpID0+IHgsCiAgICAgICAgTm9uZSA9PiBwYW5pYyEoKQogICAgfTs=</text>
+        <text encoding="base64">bWF0Y2ggYWN0aW9uc19pdGVyLm5leHQoKSB7CiAgICAgICAgICAgICAgICAgICAgU29tZSh4KSA9PiB4LAogICAgICAgICAgICAgICAgICAgIE5vbmUgPT4gcGFuaWMhKCkKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YWN0aW9ucyA9IHsKICAgICAgICBsZXQgbXV0IHN0dWZmOiBWZWM8KGlzaXplLCBpc2l6ZSk+ID0gdmVjIVsKICAgICAgICAgICAgKDAsIDEpLCAvLyByaWdodAogICAgICAgICAgICAoLTEsIDApLCAvLyB1cAogICAgICAgICAgICAoMCwgLTEpLCAvLyBsZWZ0CiAgICAgICAgICAgICgxLCAwKSAvLyBkb3duCiAgICAgICAgXTsKICAgICAgICBzdHVmZi5pdGVyKCkuY3ljbGUoKQogICAgfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ3JpZFsoY3VdCg==</text>
       </register>
     </registers>
     <search>
