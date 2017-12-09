@@ -58,11 +58,11 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/src/other/advent-of-code/src/passphrases.rs" timestamp="1512770165827">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="$USER_HOME$/src/other/advent-of-code/src/passphrases.rs" timestamp="1512791987914">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
@@ -133,10 +133,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/other/advent-of-code/src/spiral.rs" timestamp="1512786078198">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/other/advent-of-code/src/spiral.rs" timestamp="1512846097989">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
       </file>
       <file name="$USER_HOME$/src/java/offers-ui/README.md" timestamp="1498074150256">
         <mark key="[" line="53" column="3" />
@@ -206,6 +207,12 @@
         <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/other/advent-of-code/Cargo.toml" timestamp="1512791889230">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/src/scala/business-intelligence-portal/BusinessIntelligencePortalTest/src/testCase/java/com/yodle/qa/framework/national/biportal/elastic/util/AdCampaignTestHelper.java" timestamp="1510679142029">
         <mark key="[" line="83" column="8" />
@@ -358,7 +365,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512423052687">
+      <file name="/Dummy.txt" timestamp="1512791962810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -386,11 +393,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/src/other/advent-of-code/src/main.rs" timestamp="1512786071667">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/src/other/advent-of-code/src/main.rs" timestamp="1512791970208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/java/com/yodle/service/centermarkreporting/domain/Dashboard.java" timestamp="1506099886722">
         <mark key="[" line="17" column="61" />
@@ -504,44 +511,44 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>vec![Action::Up, Action::Left, Action::Down, Action::Right]</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>vec![Action::Up, Action::Left, Action::Down, Action::Right]</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJvZGRfcm9vdDoge30iLCBvZGRfcm9vdCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHMgPSAoKChjb29yZHMuMCBhcyBpc2l6ZSkgKyBjdXJyZW50X2FjdGlvbi4wKSBhcyB1c2l6ZSwgKGNvb3Jkcy4xICsgY3VycmVudF9hY3Rpb24uMSkgYXMgdXNpemUpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbGVuID0gZ3JpZC5sZW4oKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">bWF0Y2ggbmV4dF9hY3Rpb24gewogICAgICAgICAgICAgICAgQWN0aW9uOjpSaWdodCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xICsgMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OlVwID0+IChjb29yZHMuMCAtIDEsIGNvb3Jkcy4xKSwKICAgICAgICAgICAgICAgIEFjdGlvbjo6TGVmdCA9PiAoY29vcmRzLjAsIGNvb3Jkcy4xIC0gMSksCiAgICAgICAgICAgICAgICBBY3Rpb246OkRvd24gPT4gKGNvb3Jkcy4wICsgMSwgY29vcmRzLjEpCiAgICAgICAgICAgIH07</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBtdXQgdmFsOiB1c2l6ZSA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDUK</text>
+      <register name="4" type="4">
+        <text encoding="base64">bGV0IGFjdGlvbnM6IFZlYzwoaXNpemUsIGlzaXplKT4gPSB2ZWMhWwogICAgICAgICgwLCAxKSwgLy8gcmlnaHQKICAgICAgICAoLTEsIDApLCAvLyB1cAogICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAoMSwgMCkgLy8gZG93bgogICAgXTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgiezo/fSIsIGNvb3Jkcyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJvZmZzZXQ6IHt9Iiwgb2Zmc2V0KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">bWF0Y2ggYWN0aW9uc19pdGVyLm5leHQoKSB7CiAgICAgICAgICAgICAgICAgICAgU29tZSh4KSA9PiB4LAogICAgICAgICAgICAgICAgICAgIE5vbmUgPT4gcGFuaWMhKCkKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJjeWNsZToge30iLCBjeWNsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ3JpZFsoY3VdCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJkaXN0YW5jZToge30iLCBkaXN0YW5jZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHsKICAgICAgICBTb21lKHgpID0+IHgsCiAgICAgICAgTm9uZSA9PiBwYW5pYyEoKQogICAgfTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJvZGRfcm9vdDoge30iLCBvZGRfcm9vdCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YWN0aW9ucyA9IHsKICAgICAgICBsZXQgbXV0IHN0dWZmOiBWZWM8KGlzaXplLCBpc2l6ZSk+ID0gdmVjIVsKICAgICAgICAgICAgKDAsIDEpLCAvLyByaWdodAogICAgICAgICAgICAoLTEsIDApLCAvLyB1cAogICAgICAgICAgICAoMCwgLTEpLCAvLyBsZWZ0CiAgICAgICAgICAgICgxLCAwKSAvLyBkb3duCiAgICAgICAgXTsKICAgICAgICBzdHVmZi5pdGVyKCkuY3ljbGUoKQogICAgfTs=</text>
       </register>
     </registers>
     <search>
