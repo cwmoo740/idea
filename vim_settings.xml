@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/yodle/cru2/src/main/resources/application.properties" timestamp="1513286987772">
+        <mark key="[" line="4" column="94" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/java/com/yodle/service/offersui/ApplicationController.java" timestamp="1499296943375">
         <mark key="[" line="61" column="53" />
         <mark key="]" line="61" column="53" />
