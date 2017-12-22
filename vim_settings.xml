@@ -493,11 +493,11 @@
         <mark key="^" line="3" column="86" />
         <mark key="." line="3" column="86" />
       </file>
-      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/resources/application.properties" timestamp="1513961151478">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="5" column="106" />
-        <mark key="^" line="5" column="106" />
-        <mark key="." line="5" column="106" />
+      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/resources/application.properties" timestamp="1513962286367">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1513277371259">
         <mark key="[" line="0" column="0" />
@@ -525,11 +525,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="&quot;" type="4">
+        <text>text/plain,</text>
       </register>
       <register name="-" type="4">
-        <text>filePath</text>
+        <text>text/plain,</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
