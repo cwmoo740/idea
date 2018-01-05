@@ -441,11 +441,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/785f7941-7d7f-4d96-a4e4-cd5fca54a3b5/console.sql" timestamp="1510079888844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/platform/headers.md" timestamp="1515177318676">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="29" column="84" />
-        <mark key="." line="29" column="84" />
-        <mark key="^" line="29" column="84" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/platform/headers.md" timestamp="1515177967022">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
         <mark key="[" line="17" column="8" />
@@ -543,7 +543,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWF0Y2hpbmcg</text>
+        <text encoding="base64">LU9yaWdpbmF0b3IKCjEuIFdoZW4gb3JpZ2luYXRpbmcgYSByZXF1ZXN0CiAgICAtIHNldCB0aGUg</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWF0Y2hpbmcg</text>
@@ -554,25 +554,28 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIGdlbmVyYXRlIHRoZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LU9yaWdpbmF0b3IKCjEuIFdoZW4gb3JpZ2luYXRpbmcgYSByZXF1ZXN0CiAgICAtIHNldCB0aGUg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGdlbmVyYXRlIHRoZQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Mi4gV2hlbiByZWNlaXZpbmcgYSByZXF1ZXN0IHdpdGhvdXQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">UnVucyBbQ2FuYXJ5IFRlc3RzXShodHRwczovL2NvbmZsdWVuY2Uud2ViLmNvbS9kaXNwbGF5L0VORy9DYW5hcnkrVGVzdHMpIGluIApbQ2VyZWJyb10oaHR0cHM6Ly9jb25mbHVlbmNlLndlYi5jb20vZGlzcGxheS9FTkcvQ2VyZWJybytDYW5hcnkrUGlwZWxpbmUpLiBUaGlzIGFsbG93cyB5b3UgdG8gdGVzdCBhIHNlcnZpY2UgYmVmb3JlIGl0CnJlcGxhY2VzIHRoZSBleGlzdGluZyBvbmUgdG8gbWFrZSBzdXJlIGl0IHJlc3BvbmRzIGNvcnJlY3RseSB0byBzaW11bGF0ZWQgdHJhZmZpYy4KCklmIHRoZSBhcHBsaWNhdGlvbiBoYXMgbm8gY2FuYXJ5IHRlc3RzLCBzaW1wbHkgcmV0dXJuIGFuIGVtcHR5IGFycmF5Lgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CkdpdmVzIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGhlYWx0aCBvZiB0aGUgc3lzdGVtLCBzdWNoIGFzIG1lbW9yeSBhbmQgY3B1IHVzYWdlLgpUaGUgZXhhY3Qgb2JqZWN0IHJldHVybmVkIHZhcmllcyBkZXBlbmRpbmcgb24gdGhlIHVuZGVybHlpbmcgbGFuZ3VhZ2UsIG9mIHdoaWNoIEpWTSBsYW5ndWFnZXMgYW5kIE5vZGUgYXJlIGN1cnJlbnRseSAKc3VwcG9ydGVkLiAKCk5vdGUgdGhhdCBkaXNrIHVzYWdlIGluZm9ybWF0aW9uIGlzIHJlcXVpcmVkLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IC8vIEFsbCBzZXJ2aWNlcyBzaG91bGQgaW5jbHVkZSBpbmZvIGFib3V0IGZyZWUgZGlzayBzcGFjZQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>// All services should include info about free disk space
     diskSpace: {
         status: 'UP';
@@ -580,11 +583,8 @@
         threshold: number;
     };</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YC9pbmZvYCBwcm92aWRlcyB1c2VmdWwgaW5mb3JtYXRpb24gZm9yIGxvY2F0aW5nIHRoZSByaWdodCBwZW9wbGUgdG8gZml4IGJ1Z3MsIGFuZCBpcyBkaXNwbGF5ZWQgaW4gCltTZW50aW5lbF0oaHR0cHM6Ly9jb25mbHVlbmNlLnlvZGxlLmNvbS9kaXNwbGF5L0VORy9TZW50aW5lbCtEb2N1bWVudGF0aW9uKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
