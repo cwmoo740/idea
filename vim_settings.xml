@@ -204,7 +204,6 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/requirements.md" timestamp="1515113557961" />
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/api/Quotes.kt" timestamp="1499475877078">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
@@ -341,11 +340,11 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/platform/endpoints.md" timestamp="1515124330157">
-        <mark key="[" line="141" column="3" />
-        <mark key="]" line="100" column="3" />
-        <mark key="." line="100" column="3" />
-        <mark key="^" line="100" column="3" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/platform/endpoints.md" timestamp="1515173332489">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="75" />
+        <mark key="^" line="27" column="75" />
       </file>
       <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
         <mark key="[" line="5" column="0" />
@@ -442,8 +441,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/785f7941-7d7f-4d96-a4e4-cd5fca54a3b5/console.sql" timestamp="1510079888844">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/platform/headers.md" timestamp="1515113579110">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/platform/headers.md" timestamp="1515176246453">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="29" column="84" />
+        <mark key="." line="29" column="84" />
+        <mark key="^" line="29" column="84" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
         <mark key="[" line="17" column="8" />
@@ -541,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`/tests` is used for running</text>
+        <text encoding="base64">bWF0Y2hpbmcg</text>
       </register>
       <register name="-" type="4">
-        <text>`/tests` is used for running</text>
+        <text encoding="base64">bWF0Y2hpbmcg</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -553,9 +555,24 @@
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAtIGdlbmVyYXRlIHRoZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Mi4gV2hlbiByZWNlaXZpbmcgYSByZXF1ZXN0IHdpdGhvdXQK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">UnVucyBbQ2FuYXJ5IFRlc3RzXShodHRwczovL2NvbmZsdWVuY2Uud2ViLmNvbS9kaXNwbGF5L0VORy9DYW5hcnkrVGVzdHMpIGluIApbQ2VyZWJyb10oaHR0cHM6Ly9jb25mbHVlbmNlLndlYi5jb20vZGlzcGxheS9FTkcvQ2VyZWJybytDYW5hcnkrUGlwZWxpbmUpLiBUaGlzIGFsbG93cyB5b3UgdG8gdGVzdCBhIHNlcnZpY2UgYmVmb3JlIGl0CnJlcGxhY2VzIHRoZSBleGlzdGluZyBvbmUgdG8gbWFrZSBzdXJlIGl0IHJlc3BvbmRzIGNvcnJlY3RseSB0byBzaW11bGF0ZWQgdHJhZmZpYy4KCklmIHRoZSBhcHBsaWNhdGlvbiBoYXMgbm8gY2FuYXJ5IHRlc3RzLCBzaW1wbHkgcmV0dXJuIGFuIGVtcHR5IGFycmF5Lgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CkdpdmVzIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGhlYWx0aCBvZiB0aGUgc3lzdGVtLCBzdWNoIGFzIG1lbW9yeSBhbmQgY3B1IHVzYWdlLgpUaGUgZXhhY3Qgb2JqZWN0IHJldHVybmVkIHZhcmllcyBkZXBlbmRpbmcgb24gdGhlIHVuZGVybHlpbmcgbGFuZ3VhZ2UsIG9mIHdoaWNoIEpWTSBsYW5ndWFnZXMgYW5kIE5vZGUgYXJlIGN1cnJlbnRseSAKc3VwcG9ydGVkLiAKCk5vdGUgdGhhdCBkaXNrIHVzYWdlIGluZm9ybWF0aW9uIGlzIHJlcXVpcmVkLgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IC8vIEFsbCBzZXJ2aWNlcyBzaG91bGQgaW5jbHVkZSBpbmZvIGFib3V0IGZyZWUgZGlzayBzcGFjZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>// All services should include info about free disk space
     diskSpace: {
         status: 'UP';
@@ -563,26 +580,11 @@
         threshold: number;
     };</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YC9pbmZvYCBwcm92aWRlcyB1c2VmdWwgaW5mb3JtYXRpb24gZm9yIGxvY2F0aW5nIHRoZSByaWdodCBwZW9wbGUgdG8gZml4IGJ1Z3MsIGFuZCBpcyBkaXNwbGF5ZWQgaW4gCltTZW50aW5lbF0oaHR0cHM6Ly9jb25mbHVlbmNlLnlvZGxlLmNvbS9kaXNwbGF5L0VORy9TZW50aW5lbCtEb2N1bWVudGF0aW9uKS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWxsIHNlcnZpY2VzIG11c3QgY29udGFpbiBhIGAvaGVhbHRoYCBlbmRwb2ludC4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMjIFJlY29tbWVuZGVkCgojIyMgSGVhZGVyIFBhc3NpbmcKClRoZXJlIGFyZSBjZXJ0YWluIHJlcXVlc3QgaGVhZGVycyB0aGF0IHNob3VsZCBiZSBmb3J3YXJkZWQgd2hlbmV2ZXIgYSBzZXJ2aWNlIGhhbmRsZXMgcmVxdWVzdHMuIFRoaXMgaXMgbmVjZXNzYXJ5CmZvciBjYW5hcnkgZGVwbG95bWVudHMgdG8gZnVuY3Rpb24gcHJvcGVybHksIGFuZCBpcyBvZnRlbiBuZWNlc3NhcnkgZm9yIGF1dGhvcml6YXRpb24gdG8gd29yayBwcm9wZXJseSwKYW5kIHRvIHRyYWNlIHJlcXVlc3RzIHRocm91Z2hvdXQgb3VyIHN5c3RlbS4KCjxiPmhlYWRlcnM8L2I+CgpgYGB0ZXh0ClgtUmVxdWVzdC1JZApBdXRoZW50aWNhdGlvbgpYLUpldHBhY2stUmVxdWVzdC1PcmlnaW5hdG9yClgtSmV0cGFjay1SZXF1ZXN0LUNoYWluLU9yaWdpbmF0b3IKYGBgCgpUaGVyZSBhcmUgYWxzbyBoZWFkZXJzIHNldCBhcyBhIGNvbW1hIHNlcGFyYXRlZCBsaXN0IGluIGEgemsga2V5OgoKYC9jb20veW9kbGUvY29uZi90ZWNoL2hlYWRlcnBhc3NpbmdgCgpUaGlzIGFsbG93cyBvdXIgcGxhdGZvcm0gdG8gZHluYW1pY2FsbHkgY2hhbmdlIHdoaWNoIGhlYWRlcnMgYXJlIGZvcndhcmRlZCB3aGVuZXZlciBuZWNlc3NhcnkuCgojIyMgRW5kcG9pbnRz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YC9pbmZvYCBwcm92aWRlcyB1c2VmdWwgaW5mb3JtYXRpb24gZm9yIGxvY2F0aW5nIHRoZSByaWdodCBwZW9wbGUgdG8gZml4IGJ1Z3MsIGFuZCBpcyBkaXNwbGF5ZWQgaW4gCltTZW50aW5lbF0oaHR0cHM6Ly9jb25mbHVlbmNlLnlvZGxlLmNvbS9kaXNwbGF5L0VORy9TZW50aW5lbCtEb2N1bWVudGF0aW9uKS4K</text>
       </register>
     </registers>
     <search>
