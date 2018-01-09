@@ -33,7 +33,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/business-review-service/BusinessReviewService/src/main/java/com/yodle/businessreview/canary/CanaryTestController.java" timestamp="1515516479407" />
+      <file name="$USER_HOME$/src/yodle/business-review-service/BusinessReviewService/src/main/java/com/yodle/businessreview/canary/CanaryTestController.java" timestamp="1515519564143">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
@@ -312,6 +317,12 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/src/yodle/business-review-service/BusinessReviewService/src/main/java/com/yodle/businessreview/canary/CanaryTestConfig.java" timestamp="1515520006700">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/src/java/sense-of-network-ui/src/main/java/com/yodle/service/senseofnetworkui/controller/IndexController.java" timestamp="1497899959026">
         <mark key="[" line="75" column="51" />
         <mark key="]" line="75" column="51" />
@@ -544,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jvmStats</text>
+        <text>TestResult</text>
       </register>
       <register name="-" type="4">
-        <text>jvmStats</text>
+        <text>TestResult</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -555,32 +566,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvZW1iZWRkZWR0ZXN0cyIpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IFRoZXkgc2hvdWxkIGFsc28gYmUgZm9yd2FyZGVkIHdoZW4gYQpyZXF1ZXN0IGlzIHJlY2VpdmVkIHRoYXQgcmVxdWlyZXMgYWRkaXRpb25hbCByZXF1ZXN0cyB0byBvdGhlciBzZXJ2aWNlcy4=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">b24gZXJyb3IsIGxvZyBmdWxsIHJlcXVlc3QsIHRydW5jYXRlZCB0byBYWCBtYgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cHJlZml4IGFsbCBsb2dzIHdpdGggcmVxdWVzdCBpZAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyMgTm90ZXMK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmBgYHRleHQKWC1SZXF1ZXN0LUlkCkF1dGhlbnRpY2F0aW9uClgtSmV0cGFjay1SZXF1ZXN0LU9yaWdpbmF0b3IKWC1KZXRwYWNrLVJlcXVlc3QtQ2hhaW4tT3JpZ2luYXRvcgpgYGAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiMjIyBYLVJlcXVlc3QtSWQKVGhlcmUgYXJlIGNlcnRhaW4gcmVxdWVzdCBoZWFkZXJzIHRoYXQgc2hvdWxkIGJlIGZvcndhcmRlZCB3aGVuZXZlciBhIHNlcnZpY2UgaGFuZGxlcyByZXF1ZXN0cy4gVGhpcyBpcyBuZWNlc3NhcnkKZm9yIGNhbmFyeSBkZXBsb3ltZW50cyB0byBmdW5jdGlvbiBwcm9wZXJseSwgYW5kIGlzIG9mdGVuIG5lY2Vzc2FyeSBmb3IgYXV0aG9yaXphdGlvbiB0byB3b3JrIHByb3Blcmx5LAphbmQgdG8gdHJhY2UgcmVxdWVzdHMgdGhyb3VnaG91dCBvdXIgc3lzdGVtLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">WC1SZXF1ZXN0LUNoYWluOiAnbXljZW50ZXJtYXJrLmNvbScsJ2NlbnRlcm1hcmtyZXBvcnRpbmd1aS5zZXJ2aWNlcy55b2RsZS5jb20nLCdhc2RmLmNvbScK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Mi4gV2hlbiByZWNlaXZpbmcK</text>
+        <text encoding="base64">WC1SZXF1ZXN0LUNoYWluOiAnbXljZW50ZXJtYXJrLmNvbScsJ2NlbnRlcm1hcmtyZXBvcnRpbmd1aS5zZXJ2aWNlcy55b2RsZS5jb20nLCdhc2RmLmNvbScK</text>
       </register>
     </registers>
     <search>
