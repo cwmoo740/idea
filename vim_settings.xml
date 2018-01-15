@@ -39,12 +39,14 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
+      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/java/com/yodle/service/centermarkreporting/controller/IndexController.java" timestamp="1516050500687" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/resources/templates/index.html" timestamp="1516050433422" />
       <file name="$USER_HOME$/src/java/cardshark/frontend/package.json" timestamp="1501597912328">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="44" column="24" />
@@ -459,6 +461,7 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
+      <file name="$USER_HOME$/src/yodle/rockets/cru2/frontend/src/utils/dao.ts" timestamp="1516050604977" />
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="14" />
@@ -468,7 +471,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515516088651">
+      <file name="/Dummy.txt" timestamp="1516050547510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
