@@ -33,20 +33,23 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/index.html" timestamp="1516135962219">
+        <mark key="[" line="6" column="83" />
+        <mark key="]" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+      </file>
       <file name="$USER_HOME$/src/yodle/business-review-service/BusinessReviewService/src/main/java/com/yodle/businessreview/canary/CanaryTestController.java" timestamp="1515519564143">
         <mark key="[" line="29" column="11" />
         <mark key="]" line="29" column="15" />
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/java/com/yodle/service/centermarkreporting/controller/IndexController.java" timestamp="1516050500687" />
       <file name="$USER_HOME$/src/java/offers-ui/src/main/frontend/test/functional/client/client-offers-end-offer.spec.js" timestamp="1498075762745">
         <mark key="[" line="88" column="2" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/src/yodle/rockets/cru2/src/main/resources/templates/index.html" timestamp="1516050433422" />
       <file name="$USER_HOME$/src/java/cardshark/frontend/package.json" timestamp="1501597912328">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="44" column="24" />
@@ -145,6 +148,12 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/site.css" timestamp="1516137297810">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="211" column="39" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1505250951895">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="87" column="0" />
@@ -211,6 +220,12 @@
         <mark key="]" line="11" column="19" />
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/what.txt" timestamp="1516136686370">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/api/Quotes.kt" timestamp="1499475877078">
         <mark key="[" line="5" column="4" />
@@ -295,6 +310,11 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/font.css" timestamp="1516135464820">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/yodle/cru2/src/main/java/com/yodle/service/centermarkreporting/controller/IndexController.java" timestamp="1513277882566">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="22" />
@@ -360,6 +380,12 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516137199115">
+        <mark key="[" line="194" column="49" />
+        <mark key="]" line="194" column="49" />
+        <mark key="." line="194" column="49" />
+        <mark key="^" line="197" column="49" />
+      </file>
       <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="3" column="27" />
@@ -382,6 +408,10 @@
         <mark key="]" line="69" column="73" />
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/project.clj" timestamp="1516134815652">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/java/docs-server/README.md" timestamp="1510084405061">
         <mark key="[" line="29" column="28" />
@@ -461,7 +491,6 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/src/yodle/rockets/cru2/frontend/src/utils/dao.ts" timestamp="1516050604977" />
       <file name="$USER_HOME$/src/kotlin/kenya/app/src/main/java/com/cowmoo/kenya/service/Quotes.kt" timestamp="1499469196599">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="14" />
@@ -471,7 +500,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516050547510">
+      <file name="/Dummy.txt" timestamp="1516136969223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -557,11 +586,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TestResult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJywgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="-" type="4">
-        <text>TestResult</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -570,31 +599,31 @@
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvZW1iZWRkZWR0ZXN0cyIpCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJywgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IFRoZXkgc2hvdWxkIGFsc28gYmUgZm9yd2FyZGVkIHdoZW4gYQpyZXF1ZXN0IGlzIHJlY2VpdmVkIHRoYXQgcmVxdWlyZXMgYWRkaXRpb25hbCByZXF1ZXN0cyB0byBvdGhlciBzZXJ2aWNlcy4=</text>
+        <text encoding="base64">Ci5zdDcgewogICAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnLCBzYW5zLXNlcmlmOwp9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">b24gZXJyb3IsIGxvZyBmdWxsIHJlcXVlc3QsIHRydW5jYXRlZCB0byBYWCBtYgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci5zdDIgewp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJlZml4IGFsbCBsb2dzIHdpdGggcmVxdWVzdCBpZAo=</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJywgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgTm90ZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CmBgYHRleHQKWC1SZXF1ZXN0LUlkCkF1dGhlbnRpY2F0aW9uClgtSmV0cGFjay1SZXF1ZXN0LU9yaWdpbmF0b3IKWC1KZXRwYWNrLVJlcXVlc3QtQ2hhaW4tT3JpZ2luYXRvcgpgYGAK</text>
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4taGVpZ2h0OiA0NTBweCkgYW5kIChtaW4td2lkdGg6IDYwMHB4KSB7CiAgICAjdWkgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDAwMDA7CiAgICB9Cn0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMjIyBYLVJlcXVlc3QtSWQKVGhlcmUgYXJlIGNlcnRhaW4gcmVxdWVzdCBoZWFkZXJzIHRoYXQgc2hvdWxkIGJlIGZvcndhcmRlZCB3aGVuZXZlciBhIHNlcnZpY2UgaGFuZGxlcyByZXF1ZXN0cy4gVGhpcyBpcyBuZWNlc3NhcnkKZm9yIGNhbmFyeSBkZXBsb3ltZW50cyB0byBmdW5jdGlvbiBwcm9wZXJseSwgYW5kIGlzIG9mdGVuIG5lY2Vzc2FyeSBmb3IgYXV0aG9yaXphdGlvbiB0byB3b3JrIHByb3Blcmx5LAphbmQgdG8gdHJhY2UgcmVxdWVzdHMgdGhyb3VnaG91dCBvdXIgc3lzdGVtLgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">WC1SZXF1ZXN0LUNoYWluOiAnbXljZW50ZXJtYXJrLmNvbScsJ2NlbnRlcm1hcmtyZXBvcnRpbmd1aS5zZXJ2aWNlcy55b2RsZS5jb20nLCdhc2RmLmNvbScK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmNpcmNsZS5jYWxsIHsKICAgIGZpbGw6ICNlYTk1NDM7Cn0=</text>
       </register>
     </registers>
     <search>
