@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
       <mask>*.p</mask>
       <mask>c</mask>
       <mask>con</mask>
@@ -36,6 +36,7 @@
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
