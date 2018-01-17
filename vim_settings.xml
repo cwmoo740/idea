@@ -153,12 +153,6 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/site.css" timestamp="1516218673055">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="21" />
-        <mark key="^" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1505250951895">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="87" column="0" />
@@ -385,8 +379,8 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516218506408">
-        <mark key="[" line="172" column="0" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516222832594">
+        <mark key="[" line="163" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="^" line="13" column="85" />
         <mark key="." line="172" column="0" />
@@ -505,7 +499,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516207099979">
+      <file name="/Dummy.txt" timestamp="1516222768026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
