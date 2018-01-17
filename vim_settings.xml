@@ -33,10 +33,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/index.html" timestamp="1516135962219">
-        <mark key="[" line="6" column="83" />
-        <mark key="]" line="6" column="83" />
-        <mark key="." line="6" column="83" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/index.html" timestamp="1516225702177">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/src/yodle/business-review-service/BusinessReviewService/src/main/java/com/yodle/businessreview/canary/CanaryTestController.java" timestamp="1515519564143">
         <mark key="[" line="29" column="11" />
@@ -153,6 +154,12 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/site.css" timestamp="1516225221668">
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1505250951895">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="87" column="0" />
@@ -220,8 +227,8 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/what.txt" timestamp="1516219716321">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/what.txt" timestamp="1516225001579">
+        <mark key="[" line="35" column="6" />
         <mark key="]" line="34" column="4" />
         <mark key="^" line="32" column="6" />
         <mark key="." line="34" column="4" />
@@ -379,11 +386,11 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516222832594">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="13" column="85" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516225592592">
+        <mark key="[" line="166" column="26" />
+        <mark key="]" line="141" column="44" />
+        <mark key="^" line="141" column="44" />
+        <mark key="." line="141" column="44" />
       </file>
       <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
         <mark key="[" line="5" column="0" />
@@ -592,10 +599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:7ef4f66f616997a7f4e2bba80a56ff7866844e62</text>
+        <text encoding="base64">WW9kbGUg</text>
       </register>
       <register name="-" type="4">
-        <text>:7ef4f66f616997a7f4e2bba80a56ff7866844e62</text>
+        <text encoding="base64">WW9kbGUg</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -603,32 +610,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1pbi13aWR0aDogMDsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Ci5zdDAgewogICAgZmlsbDogIzMzYWJlMjsKICAgIHN0cm9rZTogIzMzYWJlMjsKICAgIHN0cm9rZS13aWR0aDogMjsKICAgIHN0cm9rZS1taXRlcmxpbWl0OiAxMDsKfQoKLnN0NCB7CiAgICBmaWxsOiAjMzNhYmUyOwogICAgZmlsbC1vcGFjaXR5OiAwOwogICAgc3Ryb2tlOiAjMzNhYmUyOwogICAgc3Ryb2tlLXdpZHRoOiAyOwogICAgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOwp9Cgouc3Q1IHsKICAgIGZpbGw6IG5vbmU7Cn0KCi5zdDYgewogICAgZmlsbDogIzMzYWJlMjsKfQoKLnN0OCB7CiAgICBmb250LXNpemU6IDIxcHg7Cn0KCi5zdDkgewogICAgZm9udC1zaXplOiA0MnB4Owp9Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiN0aW55LXdpZGdldC1jb250YWluZXIgewogICAgaGVpZ2h0OiAxMDAlOwogICAgZGlzcGxheTogZmxleDsKICAgIGZsZXgtZmxvdzogY29sdW1uOwogICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7Cn0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CkBtZWRpYSB7Cgp9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAoaWYtbm90IChnZXQgQGRlYnVnIDpoaWRlLXRhcmdldHMtdWkpIFtldmVudC10YXJnZXRzXSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CihkZWZuIGV2ZW50LXRhcmdldHMgW10KICAobGV0IFt0YXJnZXRzIChyZS1mcmFtZS9zdWJzY3JpYmUgWzpldmVudC10YXJnZXRzXSldCiAgICAoZm4gW10KICAgICAgWzpkaXYgezpjbGFzcyAibW9kdWxlIiA6aWQgImV2ZW50LXRhcmdldHMtZGF0YXRhYmxlIn0KICAgICAgIFs6ZGl2IHs6Y2xhc3MgInRpdGxlIn0gIlRvcCBMb2NhdGlvbnMiXQogICAgICAgWzp0YWJsZSB7OmNsYXNzICJ0YWJsZSJ9CiAgICAgICAgWzp0aGVhZAogICAgICAgICBbOnRyIHs6Y2xhc3MgImhlYWRlciJ9CiAgICAgICAgICBbOnRkIHs6c3R5bGUgezp3aWR0aCAiMTAwJSJ9fSAiU3RhdGUgLyBQcm92aW5jZSJdXV0KICAgICAgICBbOnRib2R5CiAgICAgICAgIChmb3IgW3RhcmdldCAodGFrZSAxMCBAdGFyZ2V0cyldCiAgICAgICAgICAgXns6a2V5IChzdHIgInRhcmdldC0iIHRhcmdldCl9CiAgICAgICAgICAgW3V0aWwvZXZlbnQtdGFyZ2V0LWRldGFpbCB0YXJnZXRdKV1dXSkpKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMCU7Cg==</text>
       </register>
     </registers>
     <search>
