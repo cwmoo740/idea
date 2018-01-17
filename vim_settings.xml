@@ -148,11 +148,11 @@
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/site.css" timestamp="1516213868760">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-        <mark key="^" line="43" column="17" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/resources/public/css/site.css" timestamp="1516215604509">
+        <mark key="[" line="80" column="11" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
+        <mark key="^" line="81" column="17" />
       </file>
       <file name="$USER_HOME$/src/java/centermark-reporting-ui2/src/main/resources/templates/index.html" timestamp="1505250951895">
         <mark key="[" line="36" column="41" />
@@ -380,11 +380,11 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516213656234">
-        <mark key="[" line="171" column="32" />
-        <mark key="]" line="171" column="33" />
-        <mark key="." line="171" column="33" />
-        <mark key="^" line="171" column="33" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516215527814">
+        <mark key="[" line="148" column="37" />
+        <mark key="]" line="120" column="52" />
+        <mark key="^" line="120" column="52" />
+        <mark key="." line="120" column="52" />
       </file>
       <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
         <mark key="[" line="5" column="0" />
@@ -592,11 +592,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>33abe2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAxMCU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>33abe2</text>
+        <text encoding="base64">VG9wIA==</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -605,33 +605,31 @@
         <text encoding="base64">ICAgICAoMCwgMSksIC8vIHJpZ2h0CiAgICAgICAgICAgICgtMSwgMCksIC8vIHVwCiAgICAgICAgICAgICgwLCAtMSksIC8vIGxlZnQKICAgICAgICAgICAgKDEsIDApIC8vIGRvd24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMCU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9hc3NldHMvdGl0bGUtYmcucG5nKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CihkZWZuIGNsb2NrLXdpZGdldCBbXQogIChsZXQgW3RpbWUgKHJlLWZyYW1lL3N1YnNjcmliZSBbOnRpbWVdKV0KICAgIChmbiBbXQogICAgICAobGV0IFt5ZWFyICg6eWVhciBAdGltZSkKICAgICAgICAgICAgZGF5ICg6ZGF5IEB0aW1lKQogICAgICAgICAgICBtb250aCAoOm1vbnRoIEB0aW1lKV0KICAgICAgICBbOmRpdiB7OmNsYXNzICJtb2R1bGUiIDppZCAidWktY2xvY2sifQogICAgICAgICBbOmRpdgogICAgICAgICAgWzpzdmcgezp4IDAgOnkgMCA6dmlld0JveCAiMCAwIDEwMCAxMDAifQogICAgICAgICAgIFs6ZwogICAgICAgICAgICBbOmNpcmNsZSB7OmNsYXNzICJzdDQiIDpjeCA1MCA6Y3kgNTAgOnIgNDh9XQogICAgICAgICAgICBbOnRleHQgezp4IDM3IDp5IDI0IDpjbGFzcyAic3Q2IHN0OCJ9IG1vbnRoXQogICAgICAgICAgICBbOnRleHQgezp4IDI3IDp5IDYyIDpjbGFzcyAic3Q2IHN0OSJ9IGRheV0KICAgICAgICAgICAgWzp0ZXh0IHs6eCAyNyA6eSA4NSA6Y2xhc3MgInN0NiBzdDgifSB5ZWFyXV1dXV0pKSkp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci5tb2R1bGU6bnRoLWNoaWxkKDMpIHsKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCguLi9hc3NldHMvdGl0bGUtYmcucG5nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA2MCUgIWltcG9ydGFudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.module:nth-child(4) {
-    width: 10% !important;
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ci5tb2R1bGU6bnRoLWNoaWxkKDEpIHsKICAgIHdpZHRoOiAxMCUgIWltcG9ydGFudDsKfQoubW9kdWxlOm50aC1jaGlsZCgyKSB7CiAgICB3aWR0aDogMTAlICFpbXBvcnRhbnQ7Cn0=</text>
+        <text encoding="base64">Ci5tb2R1bGU6bnRoLWNoaWxkKDMpIHsKfQ==</text>
       </register>
     </registers>
     <search>
