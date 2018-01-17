@@ -380,10 +380,10 @@
         <mark key="." line="83" column="7" />
         <mark key="^" line="83" column="7" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516205155990">
-        <mark key="[" line="116" column="31" />
-        <mark key="]" line="116" column="39" />
-        <mark key="." line="116" column="39" />
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/src/cljs/leadstream_v4/views.cljs" timestamp="1516206487745">
+        <mark key="[" line="115" column="29" />
+        <mark key="]" line="115" column="29" />
+        <mark key="." line="115" column="29" />
         <mark key="^" line="116" column="39" />
       </file>
       <file name="$USER_HOME$/src/rust/advent-of-code/src/main.rs" timestamp="1512521912047">
@@ -592,11 +592,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:style {:width &quot;12%&quot;}</text>
       </register>
       <register name="-" type="4">
-        <text>TYPES</text>
+        <text>:style {:width &quot;12%&quot;}</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
