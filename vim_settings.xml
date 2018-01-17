@@ -101,6 +101,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/Dockerfile" timestamp="1516219916610">
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="0" column="79" />
+        <mark key="." line="0" column="79" />
+      </file>
       <file name="$USER_HOME$/src/java/worq/src/main/java/com/yodle/worq/processing/Worker.java" timestamp="1507831807517">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
@@ -221,7 +226,7 @@
         <mark key="^" line="0" column="78" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/yodle/leadstream-v4/what.txt" timestamp="1516214400024">
+      <file name="$USER_HOME$/src/yodle/leadstream-v4/what.txt" timestamp="1516219716321">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="4" />
         <mark key="^" line="32" column="6" />
@@ -593,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci5zdDAgewogICAgZmlsbDogIzMzYWJlMjsKICAgIHN0cm9rZTogIzMzYWJlMjsKICAgIHN0cm9rZS13aWR0aDogMjsKICAgIHN0cm9rZS1taXRlcmxpbWl0OiAxMDsKfQoKLnN0NCB7CiAgICBmaWxsOiAjMzNhYmUyOwogICAgZmlsbC1vcGFjaXR5OiAwOwogICAgc3Ryb2tlOiAjMzNhYmUyOwogICAgc3Ryb2tlLXdpZHRoOiAyOwogICAgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOwp9Cgouc3Q1IHsKICAgIGZpbGw6IG5vbmU7Cn0KCi5zdDYgewogICAgZmlsbDogIzMzYWJlMjsKfQoKLnN0OCB7CiAgICBmb250LXNpemU6IDIxcHg7Cn0KCi5zdDkgewogICAgZm9udC1zaXplOiA0MnB4Owp9Cg==</text>
+        <text>:7ef4f66f616997a7f4e2bba80a56ff7866844e62</text>
       </register>
       <register name="-" type="4">
-        <text>outdoors-v10</text>
+        <text>:7ef4f66f616997a7f4e2bba80a56ff7866844e62</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
