@@ -403,11 +403,10 @@
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516825352388">
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-        <mark key="^" line="21" column="57" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516826565888">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/leadstream-v4/project.clj" timestamp="1516134815652">
         <mark key="]" line="1" column="0" />
@@ -592,11 +591,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rogers Outrank.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Rogers Outrank.</text>
+        <text>They also have</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
@@ -608,32 +607,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQWN0aXZlIERpcmVjdG9yeQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">SG93IGFyZSBpbnRlcm5hbCB1c2VycyBpbnRlZ3JhdGVkIHdpdGggQWN0aXZlIERpcmVjdG9yeT8K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>tr {
     margin: 24px;
 }</text>
-      </register>
-      <register name="6" type="4">
-        <text>tr:nth-child(n+9) {
-    display: none;
-}</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDIwcHg7Cg==</text>
       </register>
     </registers>
     <search>
