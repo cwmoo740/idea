@@ -403,11 +403,11 @@
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516823976197">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="16" column="67" />
-        <mark key="." line="16" column="67" />
-        <mark key="^" line="16" column="67" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516825352388">
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="58" />
+        <mark key="." line="21" column="58" />
+        <mark key="^" line="21" column="57" />
       </file>
       <file name="$USER_HOME$/src/yodle/leadstream-v4/project.clj" timestamp="1516134815652">
         <mark key="]" line="1" column="0" />
@@ -593,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RvcmUg</text>
+        <text>Rogers Outrank.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RvcmUg</text>
+        <text>Rogers Outrank.</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
