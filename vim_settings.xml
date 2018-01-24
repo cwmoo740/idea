@@ -403,8 +403,10 @@
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516810203845">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516812976798">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/leadstream-v4/project.clj" timestamp="1516134815652">
         <mark key="]" line="1" column="0" />
@@ -589,8 +591,8 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -607,30 +609,30 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>tr {
     margin: 24px;
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>tr:nth-child(n+9) {
     display: none;
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDIwcHg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1pbi13aWR0aDogMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci5zdDAgewogICAgZmlsbDogIzMzYWJlMjsKICAgIHN0cm9rZTogIzMzYWJlMjsKICAgIHN0cm9rZS13aWR0aDogMjsKICAgIHN0cm9rZS1taXRlcmxpbWl0OiAxMDsKfQoKLnN0NCB7CiAgICBmaWxsOiAjMzNhYmUyOwogICAgZmlsbC1vcGFjaXR5OiAwOwogICAgc3Ryb2tlOiAjMzNhYmUyOwogICAgc3Ryb2tlLXdpZHRoOiAyOwogICAgc3Ryb2tlLW1pdGVybGltaXQ6IDEwOwp9Cgouc3Q1IHsKICAgIGZpbGw6IG5vbmU7Cn0KCi5zdDYgewogICAgZmlsbDogIzMzYWJlMjsKfQoKLnN0OCB7CiAgICBmb250LXNpemU6IDIxcHg7Cn0KCi5zdDkgewogICAgZm9udC1zaXplOiA0MnB4Owp9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDIwcHg7Cg==</text>
       </register>
     </registers>
     <search>
