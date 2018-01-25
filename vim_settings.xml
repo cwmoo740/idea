@@ -403,10 +403,11 @@
         <mark key="^" line="69" column="73" />
         <mark key="." line="69" column="73" />
       </file>
-      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516826565888">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/src/yodle/apex-docs/auth/users.md" timestamp="1516896347524">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="32" column="108" />
+        <mark key="." line="32" column="108" />
+        <mark key="^" line="32" column="108" />
       </file>
       <file name="$USER_HOME$/src/yodle/leadstream-v4/project.clj" timestamp="1516134815652">
         <mark key="]" line="1" column="0" />
@@ -591,11 +592,11 @@
       <jump line="10" column="23" filename="$USER_HOME$/src/scala/business-intelligence-portal/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s is a user that oversees a collection of OEMClientUsers.</text>
       </register>
       <register name="-" type="4">
-        <text>They also have</text>
+        <text>s is a user that oversees a collection of OEMClientUsers.</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
