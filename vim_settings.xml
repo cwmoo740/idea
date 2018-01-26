@@ -14,6 +14,11 @@
         <mark key="^" line="61" column="53" />
         <mark key="." line="61" column="53" />
       </file>
+      <file name="$USER_HOME$/src/yodle/central/NatpalLive/webapp/WEB-INF/tags/dashboard/layout-ang.tag" timestamp="1517000012608">
+        <mark key="[" line="420" column="69" />
+        <mark key="]" line="420" column="69" />
+        <mark key="." line="420" column="69" />
+      </file>
       <file name="$USER_HOME$/src/scala/appointments-ui-module/README.md" timestamp="1509128130177">
         <mark key="[" line="15" column="104" />
       </file>
@@ -265,6 +270,11 @@
         <mark key="." line="308" column="37" />
         <mark key="^" line="308" column="56" />
       </file>
+      <file name="$USER_HOME$/src/yodle/dashboard-nav-service/src/main/java/com/yodle/service/dashboardnav/controller/DashboardNavController.java" timestamp="1516998716369">
+        <mark key="[" line="80" column="35" />
+        <mark key="]" line="80" column="35" />
+        <mark key="." line="80" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/345cfaf6-548c-4e35-8a1b-645ba84653d6/console.sql" timestamp="1510076174828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -506,7 +516,7 @@
       <file name="/dummy.sql" timestamp="1510604847156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516997620547">
+      <file name="/Dummy.txt" timestamp="1516999855755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -599,10 +609,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4096m</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>4096m</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
