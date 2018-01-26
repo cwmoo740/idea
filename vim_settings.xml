@@ -453,10 +453,11 @@
         <mark key="^" line="48" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1516938015986">
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1516940365824">
         <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/src/other/advent-of-code/.gitignore" timestamp="1512767281972">
         <mark key="[" line="1" column="10" />
@@ -598,10 +599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>750m</text>
+        <text>4096m</text>
       </register>
       <register name="-" type="4">
-        <text>750m</text>
+        <text>4096m</text>
       </register>
       <register name="/" type="4">
         <text>conversion-rate</text>
